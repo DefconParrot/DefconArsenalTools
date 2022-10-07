@@ -19,8 +19,8 @@ To submit a tool, either submit it to one of the folders in the category that ma
 
 |Folder Category  | About                                                       |Date Modified|
 | --------------- | ----------------------------------------------------------- |-------------|
-| SampleSubmission| - Folder containing sample tool submission                  |Oct.7.2022   |
-| phishing        | - Folder containing tools categorized as of phishing nature |Oct.7.2022   |
+| [SampleSubmission](https://github.com/Defcon-Parrot/DArT/tree/main/SampleSubmission)| - Folder containing sample tool submission                  |Oct.7.2022   |
+| [phishing](https://github.com/Defcon-Parrot/DArT/tree/main/phishing)        | - Folder containing tools categorized as of phishing nature |Oct.7.2022   |
 |                 |                                                             |             |
 
 ## General Contribution
