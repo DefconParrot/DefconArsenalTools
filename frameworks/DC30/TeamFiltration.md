@@ -1,12 +1,14 @@
 # TeamFiltration
 Category: Frameworks, Backdoor
+
 Tool Presented at: Defcon 30 via @ TrustedSec
-Author: [Melvin langvik](https://twitter.com/Flangvik)
+
+Author/presenter: [Melvin langvik](https://twitter.com/Flangvik)
 
 ## Tool Description
 ![TeamFiltration Talk](https://pbs.twimg.com/media/FeaVEMiXgAwIdrQ?format=png)
 
-TeamFiltration is a cross-platform framework for enumerating, spraying, exfiltrating, and backdooring O365 AAD accounts. 
+TeamFiltration is a cross-platform framework for enumerating, spraying, exfiltrating, and backdooring O365 AAD accounts.
 
 ## Reference Links:
 - Link to Tool => https://github.com/Flangvik/TeamFiltration

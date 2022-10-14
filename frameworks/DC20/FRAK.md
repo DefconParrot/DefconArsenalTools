@@ -3,7 +3,7 @@ Category: Framework, Hacking
 
 Tool Presented at: Defcon 20 via @ Car Hacking Village
 
-Author: [ Red Balloon Security](https://redballoonsecurity.com/)
+Author/presenter: [Red Balloon Security](https://redballoonsecurity.com/)
 
 ## Tool Description
 FRAK(Ofrak/OpenFRAK) is a framework for unpacking, analyzing, modifying and repacking the firmware images of proprietary embedded devices. The FRAK framework provides a programmatic environment for the analysis of arbitrary embedded device firmware as well as an interactive environment for the disassembly, manipulation and re-assembly of such binary images.
