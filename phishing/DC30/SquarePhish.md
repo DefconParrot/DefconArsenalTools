@@ -1,7 +1,9 @@
 # SquarePhish
 Category: Phishing, Hacking
+
 Tool Presented at: Defcon 30 via @ Cloud Village
-Author: [Secureworks](https://www.secureworks.com/)
+
+Author/presenter: [Secureworks](https://www.secureworks.com/)
 
 ## Tool Description
 SquarePhish is a phishing tool that combines QR Codes and OAuth 2.0 Device Code Flow for Advanced Phishing Attacks against Office 365.

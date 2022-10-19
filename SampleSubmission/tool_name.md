@@ -1,7 +1,9 @@
 # DC Spike Tool
 Category: Phishing, Frameworks
+
 Tool Presented at: Defcon 20
-Author: [John Doe](http://site.com), [Jane Doe](http://site.com)
+
+Author/presenter: [John Doe](http://site.com), [Jane Doe](http://site.com)
 
 ## Tool Description
 ![Image if any](https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ABYAC2V4PQI6TKFQP3MKBVO4LU.jpg)
