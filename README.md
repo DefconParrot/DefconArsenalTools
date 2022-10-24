@@ -5,18 +5,20 @@ ___
 > ## Table of Contents</h2></b>
 > - [About](#About)
 > - [Tool Submission](#Submitting-A-Tool)
+> - [Tools recorded](#Tools)
 > - [Point of Contact](#Contact-Us)
 > - [License](#License)
 
 ## About
-Defcon Arsenal Tool (DArT) is an archieve of offensive hacking tools presented at Virtually and Las Vegas every summer for three days at Defcon Hacking Conference by different security researchers from around the globe.
+Defcon Arsenal Tool ([DArT](https://dcparrot.medium.com/omg-this-might-be-the-best-way-to-track-record-tools-demod-at-defcon-hacker-conference-280d4b224cf9)) is an archieve of offensive hacking tools presented at Virtually and Las Vegas every summer for three days at Defcon Hacking Conference by different security researchers from around the globe.
 
-The aim of DArT is to make sure the tools presented at Defcon can be easily accessed without the need of crawling all over the internet in search of that one specific tool presented at DC. 
+The aim of DArT is to make sure the tools presented at Defcon can be easily accessed without the need of crawling all over the internet in search of that one specific tool presented at DC.
 
 ## Submitting A Tool
 To submit a tool, either submit it to one of the folders in the category that matches your tool, or create a new folder with your tool category if not present.
 ![dctalks](https://user-images.githubusercontent.com/30528167/194534636-238ecbd8-e133-4fff-adf1-1d9f5a223f46.PNG)
 
+## Tools
 |Folder Category  | About                                                       |Date Modified|
 | --------------- | ----------------------------------------------------------- |-------------|
 | [SampleSubmission](https://github.com/Defcon-Parrot/DArT/tree/main/SampleSubmission)| - Folder containing sample tool submission                  |Oct.7.2022   |
@@ -27,6 +29,7 @@ To submit a tool, either submit it to one of the folders in the category that ma
 | [network_attacks](https://github.com/Defcon-Parrot/DArT/tree/main/network_attacks) | - Folder containing network attack tools presented at Defcon Conference | Oct.7.2022 |
 | [phishing](https://github.com/Defcon-Parrot/DArT/tree/main/phishing)        | - Folder containing tools categorized as of phishing nature |Oct.7.2022   |
 | [reverse_exploitation](https://github.com/Defcon-Parrot/DArT/tree/main/reverse_exploitation)        | - Folder containing reverse exploitation tools presented at Defcon |Oct.7.2022   |
+| [lock_picking](https://github.com/Defcon-Parrot/DArT/tree/main/lock_picking)        | - Folder containing lock picking materials presented at Defcon |Oct.24.2022   |
 |                 |                                                             |             |
 
 ## General Contribution
