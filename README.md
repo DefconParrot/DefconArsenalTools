@@ -1,9 +1,10 @@
 # Defcon Arsenal Tools (DArT)
 
-Welcome to the Defcon Arsenal Tool ([DArT](https://github.com/Defcon-Parrot/DArT)) project! This repository aims to provide a comprehensive collection of tools and resources for security professionals and enthusiasts attending the DEFCON conference. In this README, you will find information on how to contribute to the project and help make it better.
+Welcome to the Defcon Arsenal Tool ([DArT](https://github.com/Defcon-Parrot/DArT))! This repository aims to provide a comprehensive collection of tools and resources for security professionals and enthusiasts attending the DEFCON conference. In this README, you will find information on how to contribute to the project and help make it better.
 
 ![DEFCON Arsenal Tools](https://user-images.githubusercontent.com/30528167/194520228-1c8422f0-5e25-4d71-8d41-4a1f05c11252.png)
 Current Update: <b><i>DC1 - DC31</i></b>
+Repo aims to improve this DC page -> [Tools](https://defcon.org/html/links/dc-tools.html)
 
 ---
 
@@ -35,66 +36,75 @@ For a smooth and effective collaboration, please adhere to the following guideli
 - We encourage open and constructive communication.
 - Feel free to ask questions or seek clarifications by openinga new issue.
 
-  ### Contribution Steps
+### Contribution Steps
 
-  To get started with contributing to the DArT project, follow the steps below:
+To get started with contributing to the DArT project, follow the steps below:
 
-  #### Prerequisites:
+#### Prerequisites:
 
-  - Make sure you have [Git](https://git-scm.com/downloads) installed on your system. You can download it from https://git-scm.com/downloads.
+- Make sure you have [Git](https://git-scm.com/downloads) installed on your system. You can download it from https://git-scm.com/downloads.
 
-  #### Fork the Repository
+#### Fork the Repository
 
-  Fork this repository by clicking on the "_Fork_" button at the top right corner of this page. This will create a copy of the [DArT](https://github.com/Defcon-Parrot/DArT) repository under your GitHub account.
+Fork this repository by clicking on the "_Fork_" button at the top right corner of this page. This will create a copy of the [DArT](https://github.com/Defcon-Parrot/DArT) repository under your GitHub account.
 
-  #### Clone the Repository
+#### Clone the Repository
 
-  1. Clone the forked repository to your local machine using the following command:
-     `git clone https://github.com/Defcon-Parrot/DArT.git`
-  2. Navigate to the project directory:
-     `cd DArT`
+1. Clone the forked repository to your local machine using the following command:
 
-  #### Create a Branch
+   `git clone https://github.com/Defcon-Parrot/DArT.git`
 
-  1. Create a new branch for your contribution. Choose a descriptive name that summarizes the purpose of your changes:
-     `git checkout -b my-contribution`
+2. Navigate to the project directory:
 
-  #### Make Changes
+   `cd DArT`
 
-  Now you can make the necessary changes or additions to the project. You can contribute in several ways, including:
+#### Create a Branch
 
-  - Adding new tools or scripts
-  - Improving existing tools or scripts
-  - Enhancing the project's documentation
-  - Fixing bugs or issues
+1. Create a new branch for your contribution. Choose a descriptive name that summarizes the purpose of your changes:
 
-  ![dctalks](https://user-images.githubusercontent.com/30528167/194534636-238ecbd8-e133-4fff-adf1-1d9f5a223f46.PNG)
-  Feel free to explore the project and identify areas where you can contribute effectively.
+   `git checkout -b my-contribution`
 
-  #### Commit and Push
+#### Make Changes
 
-  Once you have made your changes, it's time to commit them and push them to your forked repository:
+Now you can make the necessary changes or additions to the project. You can contribute in several ways, including:
 
-  1. Add the modified files to the commit:
-     `git add .`
-  2. Commit your changes with a descriptive message:
-     `git commit -m "Add my contribution"`
-  3. Push the changes to your forked repository:
-     `git push origin my-contribution`
+- Adding new tools or scripts
+- Improving existing tools or scripts
+- Enhancing the project's documentation
+- Fixing bugs or issues
 
-  #### Submit a Pull Request
+![dctalks](https://user-images.githubusercontent.com/30528167/194534636-238ecbd8-e133-4fff-adf1-1d9f5a223f46.PNG)
+Feel free to explore the project and identify areas where you can contribute effectively.
 
-  To maintain consistency throughout the project, we follow certain code style and guidelines. When contributing to DArT, please keep the following in mind:
+#### Commit and Push
 
-  - Ensure your code is well-documented and easy to understand.
-  - Write meaningful commit messages that describe your changes.
+Once you have made your changes, it's time to commit them and push them to your forked repository:
 
-  Now it's time to submit a Pull Request (PR) to the main [DArT repository](https://github.com/Defcon-Parrot/DArT). Follow these steps:
+1. Add the modified files to the commit:
 
-  1. Visit your forked repository on GitHub.
-  2. Click on the "_Compare & pull request_" button next to your newly pushed branch.
-  3. Fill in the details of your contribution in the PR description.
-  4. Click on the "_Create pull request_" button to submit your changes for review.
+   `git add .`
+
+2. Commit your changes with a descriptive message:
+
+   `git commit -m "Add my contribution"`
+
+3. Push the changes to your forked repository:
+
+   `git push origin my-contribution`
+
+#### Submit a Pull Request
+
+To maintain consistency throughout the project, we follow certain code style and guidelines. When contributing to DArT, please keep the following in mind:
+
+- Ensure your code is well-documented and easy to understand.
+- Write meaningful commit messages that describe your changes.
+
+Now it's time to submit a Pull Request (PR) to the main [DArT repository](https://github.com/Defcon-Parrot/DArT). Follow these steps:
+
+1. Visit your forked repository on GitHub.
+2. Click on the "_Compare & pull request_" button next to your newly pushed branch.
+3. Fill in the details of your contribution in the PR description.
+4. Click on the "_Create pull request_" button to submit your changes for review.
 
 ---
 
