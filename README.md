@@ -2,7 +2,8 @@
 
 Welcome to the Defcon Arsenal Tool ([DArT](https://github.com/Defcon-Parrot/DArT))! This repository aims to provide a comprehensive collection of tools and resources for security professionals and enthusiasts attending the DEFCON conference. In this README, you will find information on how to contribute to the project and help make it better.
 
-![DEFCON Arsenal Tools](https://user-images.githubusercontent.com/30528167/194520228-1c8422f0-5e25-4d71-8d41-4a1f05c11252.png)
+![DEFCON Arsenal Tools](https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/ccd2ac91-2557-436a-80d6-6ce280c9f05b)
+
 Current Update: <b><i>DC1 - DC31</i></b>
 Repo aims to improve this DC page -> [Tools](https://defcon.org/html/links/dc-tools.html)
 
@@ -155,9 +156,8 @@ If you have any questions or need further assistance, don't hesitate to reach ou
 
 ## Contact Us (Twitter)
 
-- Defcon Parrot => [Get in touch](https://twitter.com/DefconParrot)
-- DefconGroups => [Get in touch](https://twitter.com/defcongroups)
-- Defcon Conference => [Get in touch](https://twitter.com/defcon)
+- Curator => Get in touch: [𝕏: @DefconParrot↗](https://twitter.com/DefconParrot)
+- Defcon => Get in touch: [𝕏: @defcon↗](https://twitter.com/defcon) | [Mastodon: @defcon↗](https://defcon.social/@defcon) | [defcon.org](http://defcon.org)
 
 ## License
 
