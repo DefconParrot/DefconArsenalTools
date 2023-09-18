@@ -1,25 +1,26 @@
 ctrl + F => Easily check if a tool you intend to add has been already added / or for the purpose of information update on a particular tool.
 
-|   Tool Name           | Addition Status: Done / In Progress  |
+|   Tool Name           | Addition Status: Added / In Progress  |
 |-----------------------|--------------------------------------|
-| [EDRSandBlast](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/EDRSandBlast.md)          |      Done                            |
-| [cisco_asa_research](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/cisco_asa_research.md)    |      Done                            |
-| [emoji_shellcoding](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/emoji_shellcoding.md)     |      Done                            |
-| [pacman](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/pacman.md) | Done |
-| [powerpwn](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/powerpwn.md) | Done |
-| [FRAK](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC20/FRAK.md) | Done |
-| [TeamFiltration](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC30/TeamFiltration.md) | Done |
-| [canTot](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC30/canTot.md) | Done |
-| [EMBA](https://github.com/DefconParrot/DefconArsenalTools/blob/main/hardening/EMBA.md) | Done |
-| [Gatekeyper](https://github.com/DefconParrot/DefconArsenalTools/blob/main/lock_picking/DC26/Gatekeyper.md) | Done |
-| [BULA-Virus](https://github.com/DefconParrot/DefconArsenalTools/blob/main/malware_research/DC30/BULA-Virus.md) | Done |
-| [CANalyse](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC30/CANalyse.md) | Done |
-| [SquarePhish](https://github.com/DefconParrot/DefconArsenalTools/blob/main/phishing/DC30/SquarePhish.md) | Done |
-| [WiGLEBottleV2](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC31/BT-BLE/AppleJuice.md) | Done |
-| [AppleJuice](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC31/wardriving/RPi4_WigleBottle_v2.md) | Done |
-| [WIFISHARK](<https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC31/802.11 WIFI/WIFISHARK.md>) | Done |
-| [Veilid](https://github.com/DefconParrot/DefconArsenalTools/blob/main/P2P/DC31/Veilid.md) | Done |
-| [Wifydra](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC31/wardriving/The_Wifydra.md) | Done |
-| [WiGLE Balloon](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC31/wardriving/Wigle_Balloon.md) | Done |
-| [RFparty](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_analysis/DC31/rfparty-xyz.md) | Done |
-
+| [EDRSandBlast](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/EDRSandBlast.md)          |      Added                            |
+| [cisco_asa_research](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/cisco_asa_research.md)    |      Added                            |
+| [emoji_shellcoding](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/emoji_shellcoding.md)     |      Added                            |
+| [pacman](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/pacman.md) | Added |
+| [powerpwn](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/powerpwn.md) | Added |
+| [FRAK](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC20/FRAK.md) | Added |
+| [TeamFiltration](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC30/TeamFiltration.md) | Added |
+| [canTot](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC30/canTot.md) | Added |
+| [EMBA](https://github.com/DefconParrot/DefconArsenalTools/blob/main/hardening/EMBA.md) | Added |
+| [Gatekeyper](https://github.com/DefconParrot/DefconArsenalTools/blob/main/lock_picking/DC26/Gatekeyper.md) | Added |
+| [BULA-Virus](https://github.com/DefconParrot/DefconArsenalTools/blob/main/malware_research/DC30/BULA-Virus.md) | Added |
+| [CANalyse](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC30/CANalyse.md) | Added |
+| [SquarePhish](https://github.com/DefconParrot/DefconArsenalTools/blob/main/phishing/DC30/SquarePhish.md) | Added |
+| [WiGLEBottleV2](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC31/BT-BLE/AppleJuice.md) | Added |
+| [AppleJuice](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC31/wardriving/RPi4_WigleBottle_v2.md) | Added |
+| [WIFISHARK](<https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC31/802.11 WIFI/WIFISHARK.md>) | Added |
+| [Veilid](https://github.com/DefconParrot/DefconArsenalTools/blob/main/P2P/DC31/Veilid.md) | Added |
+| [Wifydra](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC31/wardriving/The_Wifydra.md) | Added |
+| [WiGLE Balloon](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC31/wardriving/Wigle_Balloon.md) | Added |
+| [RFparty](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_analysis/DC31/rfparty-xyz.md) | Added |
+| [CloudRecon](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_analysis/DC31/CloudRecon.md) | Added |
+| [EasyEASM](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC31/EasyEASM.md) | Added |
