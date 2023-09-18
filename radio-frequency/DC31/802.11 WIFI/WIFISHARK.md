@@ -1,4 +1,4 @@
-# DC Spike Tool
+# WIFISHARK
 Category: WIFI, Wireshark, 802.11
 
 Tool Presented at: Defcon 31 @ Radio Frequency Village

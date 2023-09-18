@@ -23,7 +23,7 @@ Repo aims to improve this DC page -> [Tools](https://defcon.org/html/links/dc-to
 
 ## About
 
-The Defcon Arsenal Tool ([DArT](https://dcparrot.medium.com/omg-this-might-be-the-best-way-to-track-record-tools-demod-at-defcon-hacker-conference-280d4b224cf9)) is a curated collection of security tools, scripts, and resources that are useful for various tasks such as network scanning, vulnerability assessment, exploit development, and more. It is designed to assist security professionals and researchers in their day-to-day work and to promote knowledge sharing within the DEFCON community.
+Defcon Arsenal Tools ([DArT](https://github.com/DefconParrot/DefconArsenalTools)) is a curated collection of security tools, scripts, and resources that are useful for various tasks such as network scanning, vulnerability assessment, exploit development, and more. It is designed to assist security professionals and researchers in their day-to-day work and to promote knowledge sharing within the DEFCON community.
 
 ---
 
@@ -31,24 +31,83 @@ The Defcon Arsenal Tool ([DArT](https://dcparrot.medium.com/omg-this-might-be-th
 
 | Folder Category                                                                              | About                                                                      |
 | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [SampleSubmission](https://github.com/Defcon-Parrot/DArT/tree/main/SampleSubmission)         | - Folder containing sample tool submission format                          |
+| [SampleSubmission](https://github.com/Defcon-Parrot/DArT/tree/main/SampleSubmission)         | - Folder containing sample tool `tool.md` inside a demo category named `SampleSubmission`                          |
 | [exploitation](https://github.com/Defcon-Parrot/DArT/tree/main/exploitation)                 | - Folder containing exploitation tools                                     |
 | [frameworks](https://github.com/Defcon-Parrot/DArT/tree/main/frameworks)                     | - Folder containing frameworks presented at Defcon (DC)                    |
 | [hardening](https://github.com/Defcon-Parrot/DArT/tree/main/hardening)                       | - Folder with all hardening tools as seen in Defcon                        |
 | [malware_research](https://github.com/Defcon-Parrot/DArT/tree/main/malware_research)         | - Folder containing malware researches whose demo were presented at Defcon |
 | [network_attacks](https://github.com/Defcon-Parrot/DArT/tree/main/network_attacks)           | - Folder containing network attack tools presented at Defcon Conference    |
+| [P2P](https://github.com/Defcon-Parrot/DArT/tree/main/P2P)           | - Folder containing Peerto Peer security tools presented at Defcon Conference    |
+| [radio-frequency](https://github.com/Defcon-Parrot/DArT/tree/main/radio-frequency)           | - Folder containing radio frequency arsenal tools presented at Defcon Conference    |
 | [phishing](https://github.com/Defcon-Parrot/DArT/tree/main/phishing)                         | - Folder containing tools categorized as of phishing nature                |
 | [reverse_exploitation](https://github.com/Defcon-Parrot/DArT/tree/main/reverse_exploitation) | - Folder containing reverse exploitation tools presented at Defcon         |
 | [lock_picking](https://github.com/Defcon-Parrot/DArT/tree/main/lock_picking)                 | - Folder containing lock picking materials presented at Defcon             |
 
 <b>Disclaimer</b>: This project is intended for educational and informational purposes only. The authors and contributors are not responsible for any misuse or illegal activities conducted with the tools and resources provided in this repository. Always ensure that you have proper authorization and adhere to applicable laws and regulations while using these tools.
 
+### Tree Structure For the Arsenal Tools
+
+```markdown
+
+DefconArsenalTools/
+│
+├── Malware/
+│   ├── README.md
+│   ├── DC30/
+│   │   ├── Tool1.md
+│   │   ├── Tool2.md
+│   │   └── ...
+│   │
+│   ├── DC31/
+│   │   ├── Tool1.md
+│   │   ├── Tool2.md
+│   │   └── ...
+│   │
+│   └── ...
+│
+├── Hardening/
+│   ├── README.md
+│   ├── DC30/
+│   │   ├── Tool1.md
+│   │   ├── Tool2.md
+│   │   └── ...
+│   │
+│   ├── DC31/
+│   │   ├── Subcategory/
+|   |   |       |── Tool1.md
+|   |   |       |── Tool2.md
+│   │   |       └── ...
+│   │   |
+│   │   ├── Tool2.md/
+│   │   └── ...
+│   │
+│   └── ...
+│
+├── Exploitation/
+│   ├── README.md
+│   ├── DC30/
+│   │   ├── Tool1.md
+│   │   ├── Tool2.md
+│   │   └── ...
+│   │
+│   ├── DC31/
+│   │   ├── Tool1.md
+│   │   ├── Tool2.md
+│   │   └── ...
+│   │
+│   └── ...
+│
+└── ...
+
+```
+
 ## Tool Sources
 
 Feel free to contribute on matters documentation and or enhancing this project to be easily accessible by others either by creating issues or submitting pull requests and referencing a raised issue(s).
 
-Tools Reference: => [DEF CON Media](https://media.defcon.org/)
-Demo Prentations: => [DEF CON Talks](https://www.youtube.com/user/DEFCONConference/playlists)
+Tools Reference: => [DEF CON Media↗](https://media.defcon.org/) | 
+Demo Prentations: => [DEF CON Talks↗](https://www.youtube.com/user/DEFCONConference/playlists) | 
+DEF CON Arsenal Curation: => [𝕏: @DefconParrot↗](https://twitter.com/DefconParrot)
 
 ![DaRT tool sample on social media](https://github.com/Defcon-Parrot/DArT/assets/30528167/fbbf1b79-0c46-4e99-aeb0-1bc611ffa794)
 
@@ -60,8 +119,7 @@ To submit a tool, either submit it to one of the folders in the category that ma
 
 For a smooth and effective collaboration, please adhere to the following guidelines:
 
-- Before starting work on a new feature or tool, check the existing issues and pull requests to avoid duplication of efforts.
-- If you plan to work on an existing issue, please comment on it to let others know that you are taking care of it.
+- Before starting work on a new feature or tool, check they have already been [added](https://github.com/DefconParrot/DefconArsenalTools/blob/main/toolsAdded.md) and create pull requests with updated local changes to avoid duplication of efforts and or running into errors.
 - Be respectful and considerate towards other contributors.
 - We encourage open and constructive communication.
 - Feel free to ask questions or seek clarifications by opening a new issue.
@@ -152,7 +210,7 @@ Now it's time to submit a Pull Request (PR) to the main [DArT repository](https:
 
 Thank you for your interest in contributing to the Defcon Arsenal Tool (DArT) project! Your contributions play a vital role in making this project a valuable resource for the DEFCON community. We appreciate your time and effort in helping us improve the toolset and enhance the overall security landscape.
 
-If you have any questions or need further assistance, don't hesitate to reach out by opening an issue. Happy hacking!
+If you have any questions or need further assistance, don't hesitate to reach out to us using the contact us options or by opening an issue.
 
 ## Contact Us (Twitter)
 
