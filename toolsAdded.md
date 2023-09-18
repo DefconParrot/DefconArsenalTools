@@ -15,3 +15,10 @@ ctrl + F => Easily check if a tool you intend to add has been already added / or
 | [BULA-Virus](https://github.com/DefconParrot/DefconArsenalTools/blob/main/malware_research/DC30/BULA-Virus.md) | Done |
 | [CANalyse](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC30/CANalyse.md) | Done |
 | [SquarePhish](https://github.com/DefconParrot/DefconArsenalTools/blob/main/phishing/DC30/SquarePhish.md) | Done |
+| [WiGLEBottleV2](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/BT-BLE/AppleJuice.md) | Done |
+| [AppleJuice](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/wardriving/RPi4_WigleBottle_v2.md) | Done |
+| [WIFISHARK](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/802.11 WIFI\WIFISHARK.md) | Done |
+| [Veilid](https://github.com/DefconParrot/DefconArsenalTools/blob/main/P2P/Veilid.md) | Done |
+| [Wifydra](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/wardriving/The_Wifydra.md) | Done |
+| [WiGLE Balloon](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/wardriving/Wigle_Balloon.md) | Done |
+
