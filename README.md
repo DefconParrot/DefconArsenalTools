@@ -1,6 +1,6 @@
 # Defcon Arsenal Tools (DArT)
 
-Welcome to the Defcon Arsenal Tool ([DArT](https://github.com/Defcon-Parrot/DArT))! This repository aims to provide a comprehensive collection of tools and resources for security professionals and enthusiasts attending the DEFCON conference. In this README, you will find information on how to contribute to the project and help make it better.
+Welcome to the Defcon Arsenal Tool ([DArT](https://github.com/Defcon-Parrot/DefconArsenalTools))! This repository aims to provide a comprehensive collection of tools and resources for security professionals and enthusiasts attending the DEFCON conference. In this README, you will find information on how to contribute to the project and help make it better.
 
 ![DEFCON Arsenal Tools](https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/ccd2ac91-2557-436a-80d6-6ce280c9f05b)
 
@@ -31,17 +31,17 @@ Defcon Arsenal Tools ([DArT](https://github.com/DefconParrot/DefconArsenalTools)
 
 | Folder Category                                                                              | About                                                                      |
 | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [SampleSubmission](https://github.com/Defcon-Parrot/DArT/tree/main/SampleSubmission)         | - Folder containing sample tool `tool.md` inside a demo category named `SampleSubmission`                          |
-| [exploitation](https://github.com/Defcon-Parrot/DArT/tree/main/exploitation)                 | - Folder containing exploitation tools                                     |
-| [frameworks](https://github.com/Defcon-Parrot/DArT/tree/main/frameworks)                     | - Folder containing frameworks presented at Defcon (DC)                    |
-| [hardening](https://github.com/Defcon-Parrot/DArT/tree/main/hardening)                       | - Folder with all hardening tools as seen in Defcon                        |
-| [malware_research](https://github.com/Defcon-Parrot/DArT/tree/main/malware_research)         | - Folder containing malware researches whose demo were presented at Defcon |
-| [network_attacks](https://github.com/Defcon-Parrot/DArT/tree/main/network_attacks)           | - Folder containing network attack tools presented at Defcon Conference    |
-| [P2P](https://github.com/Defcon-Parrot/DArT/tree/main/P2P)           | - Folder containing Peerto Peer security tools presented at Defcon Conference    |
-| [radio-frequency](https://github.com/Defcon-Parrot/DArT/tree/main/radio-frequency)           | - Folder containing radio frequency arsenal tools presented at Defcon Conference    |
-| [phishing](https://github.com/Defcon-Parrot/DArT/tree/main/phishing)                         | - Folder containing tools categorized as of phishing nature                |
-| [reverse_exploitation](https://github.com/Defcon-Parrot/DArT/tree/main/reverse_exploitation) | - Folder containing reverse exploitation tools presented at Defcon         |
-| [lock_picking](https://github.com/Defcon-Parrot/DArT/tree/main/lock_picking)                 | - Folder containing lock picking materials presented at Defcon             |
+| [SampleSubmission](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/SampleSubmission)         | - Folder containing sample tool `tool.md` inside a demo category named `SampleSubmission`                          |
+| [exploitation](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/exploitation)                 | - Folder containing exploitation tools                                     |
+| [frameworks](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/frameworks)                     | - Folder containing frameworks presented at Defcon (DC)                    |
+| [hardening](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/hardening)                       | - Folder with all hardening tools as seen in Defcon                        |
+| [malware_research](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/malware_research)         | - Folder containing malware researches whose demo were presented at Defcon |
+| [network_attacks](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/network_attacks)           | - Folder containing network attack tools presented at Defcon Conference    |
+| [P2P](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/P2P)           | - Folder containing Peerto Peer security tools presented at Defcon Conference    |
+| [radio-frequency](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/radio-frequency)           | - Folder containing radio frequency arsenal tools presented at Defcon Conference    |
+| [phishing](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/phishing)                         | - Folder containing tools categorized as of phishing nature                |
+| [reverse_exploitation](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/reverse_exploitation) | - Folder containing reverse exploitation tools presented at Defcon         |
+| [lock_picking](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/lock_picking)                 | - Folder containing lock picking materials presented at Defcon             |
 
 <b>Disclaimer</b>: This project is intended for educational and informational purposes only. The authors and contributors are not responsible for any misuse or illegal activities conducted with the tools and resources provided in this repository. Always ensure that you have proper authorization and adhere to applicable laws and regulations while using these tools.
 
@@ -109,7 +109,7 @@ Tools Reference: => [DEF CON Media↗](https://media.defcon.org/) |
 Demo Prentations: => [DEF CON Talks↗](https://www.youtube.com/user/DEFCONConference/playlists) | 
 DEF CON Arsenal Curation: => [𝕏: @DefconParrot↗](https://twitter.com/DefconParrot)
 
-![DaRT tool sample on social media](https://github.com/Defcon-Parrot/DArT/assets/30528167/fbbf1b79-0c46-4e99-aeb0-1bc611ffa794)
+![DaRT tool sample on social media](https://github.com/Defcon-Parrot/DefconArsenalTools/assets/30528167/fbbf1b79-0c46-4e99-aeb0-1bc611ffa794)
 
 ---
 
@@ -134,20 +134,20 @@ To get started with contributing to the DArT project, follow the steps below:
 
 #### Fork the Repository
 
-Fork this repository by clicking on the "_Fork_" button at the top right corner of this page. This will create a copy of the [DArT](https://github.com/Defcon-Parrot/DArT) repository under your GitHub account.
+Fork this repository by clicking on the "_Fork_" button at the top right corner of this page. This will create a copy of the [DArT](https://github.com/Defcon-Parrot/DefconArsenalTools) repository under your GitHub account.
 
 #### Clone the Repository
 
 1. Clone the forked repository to your local machine using the following command:
 
 ```markdown
-git clone https://github.com/Defcon-Parrot/DArT.git
+git clone https://github.com/Defcon-Parrot/DefconArsenalTools.git
 ```
 
 2. Navigate to the project directory:
 
 ```markdown
-cd DArT
+cd DefconArsenalTools
 ```
 
 #### Create a Branch
@@ -199,7 +199,7 @@ To maintain consistency throughout the project, we follow certain code styles an
 - Ensure your code is well-documented and easy to understand.
 - Write meaningful commit messages that describe your changes.
 
-Now it's time to submit a Pull Request (PR) to the main [DArT repository](https://github.com/DefconParrot/DArT). Follow these steps:
+Now it's time to submit a Pull Request (PR) to the main [DArT repository](https://github.com/DefconParrot/DefconArsenalTools). Follow these steps:
 
 1. Visit your forked repository on GitHub.
 2. Click on the "_Compare & pull request_" button next to your newly pushed branch.
