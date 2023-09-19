@@ -1,9 +1,9 @@
 ctrl + F => Easily check if a tool you intend to add has been already added / or for the purpose of information update on a particular tool.
 
-|   Tool Name           | Addition Status: Added / In Progress  |
-|-----------------------|--------------------------------------|
-| [EDRSandBlast](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/EDRSandBlast.md)          |      Added                            |
-| [cisco_asa_research](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/cisco_asa_research.md)    |      Added                            |
+|   Tool Name           | Addition Status: Added / In Progress                    |
+|-----------------------|---------------------------------------------------------|
+| [EDRSandBlast](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/EDRSandBlast.md) |      Added |
+| [cisco_asa_research](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/cisco_asa_research.md) | Added  |
 | [emoji_shellcoding](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/emoji_shellcoding.md)     |      Added                            |
 | [pacman](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/pacman.md) | Added |
 | [powerpwn](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/powerpwn.md) | Added |
@@ -24,3 +24,5 @@ ctrl + F => Easily check if a tool you intend to add has been already added / or
 | [RFparty](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_analysis/DC31/rfparty-xyz.md) | Added |
 | [CloudRecon](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_analysis/DC31/CloudRecon.md) | Added |
 | [EasyEASM](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC31/EasyEASM.md) | Added |
+| [asyauth](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC31/asyauth.md) | Added |
+| [SpamChannel](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC31/SpamChannel.md) | Added  |
