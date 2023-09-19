@@ -24,3 +24,4 @@ ctrl + F => Easily check if a tool you intend to add has been already added / or
 | [RFparty](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_analysis/DC31/rfparty-xyz.md) | Added |
 | [CloudRecon](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_analysis/DC31/CloudRecon.md) | Added |
 | [EasyEASM](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC31/EasyEASM.md) | Added |
+| [asyauth](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC31/asyauth.md) | Added |
