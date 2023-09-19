@@ -26,3 +26,4 @@ ctrl + F => Easily check if a tool you intend to add has been already added / or
 | [EasyEASM](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC31/EasyEASM.md) | Added |
 | [asyauth](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC31/asyauth.md) | Added |
 | [SpamChannel](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC31/SpamChannel.md) | Added  |
+| [ezviz_lan_rce](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC31/ezviz_lan_rce.md) |Added |
