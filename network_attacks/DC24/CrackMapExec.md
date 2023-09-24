@@ -2,7 +2,7 @@
 
 Category: Network, Pentesting
 
-Tool Presented at: Defcon 25
+Tool Presented at: Defcon 24
 
 Author/presenter: [Marcello 'byt3bl33d3r' Salvati](https://github.com/byt3bl33d3r)
 
