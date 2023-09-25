@@ -21,14 +21,14 @@ ctrl + F => Easily check if a tool you intend to add has been already added / or
 | [Veilid](https://github.com/DefconParrot/DefconArsenalTools/blob/main/P2P/DC31/Veilid.md) | Added |
 | [Wifydra](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC31/wardriving/The_Wifydra.md) | Added |
 | [WiGLE Balloon](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC31/wardriving/Wigle_Balloon.md) | Added |
-| [RFparty](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC31/802.11 WIFI/rfparty-xyz.md) | Added |
+| [RFparty](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC31/802.11%WIFI/rfparty-xyz.md) | Added |
 | [CloudRecon](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_analysis/DC31/CloudRecon.md) | Added |
 | [EasyEASM](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC31/EasyEASM.md) | Added |
 | [asyauth](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC31/asyauth.md) | Added |
 | [SpamChannel](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC31/SpamChannel.md) | Added  |
 | [ezviz_lan_rce](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC31/ezviz_lan_rce.md) | Added |
 | [RTV Secure Terminal CTF](https://github.com/DefconParrot/DefconArsenalTools/blob/main/CTF/DC31/RTV_Secure_Terminal_CTF.md) | Added | 
-| [Hack to Basics](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC27/Hack to Basics.md) | Added | 
+| [Hack to Basics](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC27/Hack%20to%20Basics.md) | Added | 
 | [Starkiller](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC28/Starkiller.md) | Added | 
 | [Empire](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC30/Empire.md) | Added | 
 | [Long Live the Empire](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC31/Long_Live_the_Empire.md) | Added | 
