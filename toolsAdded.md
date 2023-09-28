@@ -26,12 +26,14 @@ ctrl + F => Easily check if a tool you intend to add has been already added / or
 | [EasyEASM](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC31/EasyEASM.md) | Added |
 | [asyauth](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC31/asyauth.md) | Added |
 | [SpamChannel](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC31/SpamChannel.md) | Added  |
-| [ezviz_lan_rce](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC31/ezviz_lan_rce.md) | Added |
+| [ezviz_lan_rce](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC31/ezviz_lan_rce.md) |Added |
+| [RelocBonus](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC26/RelocBonus.md) | Added  |
+| [NoFilter](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC31/NoFilter.md) | Added  |
+| [ContainYourself](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC31/ContainYourself.md) | Added  |
 | [RTV Secure Terminal CTF](https://github.com/DefconParrot/DefconArsenalTools/blob/main/CTF/DC31/RTV_Secure_Terminal_CTF.md) | Added | 
 | [Hack to Basics](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC27/Hack%20to%20Basics.md) | Added | 
 | [Starkiller](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC28/Starkiller.md) | Added | 
 | [Empire](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC30/Empire.md) | Added | 
 | [Long Live the Empire](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC31/Long_Live_the_Empire.md) | Added | 
 | [Hacking Bluetooth Low Energy Locks](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC24/Hacking_BLE_Locks.md) | Added | 
-| [SpamChannel](https://github.com/DefconParrot/DefconArsenalTools/blob/main/phishing/DC31/SpamChannel.md) | Added
-| [CrackMapExec](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC24/CrackMapExec.md) | Added
+| [CrackMapExec](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC24/CrackMapExec.md) | Added |
