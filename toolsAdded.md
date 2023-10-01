@@ -37,3 +37,4 @@ ctrl + F => Easily check if a tool you intend to add has been already added / or
 | [Long Live the Empire](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC31/Long_Live_the_Empire.md) | Added | 
 | [Hacking Bluetooth Low Energy Locks](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC24/Hacking_BLE_Locks.md) | Added | 
 | [CrackMapExec](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC24/CrackMapExec.md) | Added |
+| [OPC-UA](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC31/OPC-UA.md) | Added |
