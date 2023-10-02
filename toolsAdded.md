@@ -39,3 +39,4 @@ ctrl + F => Easily check if a tool you intend to add has been already added / or
 | [CrackMapExec](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC24/CrackMapExec.md) | Added |
 | [OPC-UA](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC31/OPC-UA.md) | Added |
 | [git-wild-hunt](https://github.com/DefconParrot/DefconArsenalTools/blob/main/credential_scanning/DC29/git-wild-hunt.md) | Added |
+| [Katalina](https://github.com/DefconParrot/DefconArsenalTools/blob/main/malware_research/DC31/Katalina.md) | Added |
