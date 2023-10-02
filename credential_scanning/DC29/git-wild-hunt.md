@@ -66,7 +66,7 @@ This tool is very effective in finding leaked credentials here is a list of the 
 
 - Link to Talk(presentation)📺 => N/A
 
-- Link to blog => [OPC UA Deep Dive Series: A One-of-a-Kind OPC UA Exploit Framework](https://claroty.com/team82/research/opc-ua-deep-dive-series-a-one-of-a-kind-opc-ua-exploit-framework?utm_campaign=%5BEvent%5D+DEFCON+2023&utm_content=Oktopost-twitter&utm_source=twitter&utm_tags=yaniv+vardi%2Cdave+dewalt%2Cted+bailey%2Cartificial+intelligence%2Cai%2Chealthcare%2Cpartner+marketing%2Corange+cyberdefense%2CLaurent+Celerier%2Cnightdragon%2Cdataminr)
+- Link to blog🧾 => N/A
 
 ## Author Description (Team82 researchers)
 
@@ -79,4 +79,4 @@ This tool is very effective in finding leaked credentials here is a list of the 
 
 - [Twitter: Rod](https://twitter.com/rodsoto)
 - [Twitter: Jose](https://twitter.com/d1vious)
-- [Website: About Team82](https://claroty.com/team82/)
+- [Website](#)
