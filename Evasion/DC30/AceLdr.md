@@ -25,7 +25,7 @@ A position-independent reflective loader for Cobalt Strike. Zero results from Hu
 - Link to blog🧾 => N/A
 
 
-## Author Description (Team82 researchers)
+## Author Description 
 
 - At the time of talk presentation, *Kyle* is an Offensive Security Lead at H-E-B, a former [BHIS](https://www.blackhillsinfosec.com/).
 - Focus on Post-Exploitation.
