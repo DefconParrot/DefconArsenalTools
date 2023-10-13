@@ -1,6 +1,6 @@
 #  BrokenbyDesign - Vulnerable Azure Enivornment
 
-Category: azure, cloud, vulnerable, terrform
+Category: azure, cloud, vulnerable, terraform
 
 Tool Presented at: Defcon 30 - (Y.2022)
 
@@ -26,8 +26,8 @@ Author/presenter: [Roy Stultiens](#), [Siebren Kraak](#) @ ([Secura](https://www
 - Link to Source Code => [BrokenbyDesign-azure](https://github.com/SecuraBV/brokenbydesign-azure)
 
 ## Author Descriptions (Secura Researchers)
-- *Roy Stultiens* Security Expert
-- *Siebren Kraak* Security Intern
+- *Roy Stultiens* - Security Expert
+- *Siebren Kraak* - Security Intern
 
 ## Author's Social Links:
 
