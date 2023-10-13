@@ -34,6 +34,7 @@ Defcon Arsenal Tools ([DArT](https://github.com/DefconParrot/DefconArsenalTools)
 | [SampleSubmission](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/SampleSubmission)         | - Folder containing sample tool `tool.md` inside a demo category named `SampleSubmission`                          |
 | [Credential_Scanning](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/credential_scanning)     | - Folder containing tools for user credential scannings                    |
 | [CTF](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/CTF)                                   | - Folder containing CTF tools                                              |
+| [Evasion](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/Evasion)                                   | - Folder containing anti-detection/evasion arsenal tools.           |
 | [Exploitation](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/exploitation)                 | - Folder containing exploitation tools                                     |
 | [Frameworks](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/frameworks)                     | - Folder containing frameworks presented at Defcon (DC)                    |
 | [Hardening](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/hardening)                       | - Folder with all hardening tools as seen in Defcon                        |
