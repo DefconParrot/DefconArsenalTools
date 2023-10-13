@@ -32,18 +32,18 @@ Defcon Arsenal Tools ([DArT](https://github.com/DefconParrot/DefconArsenalTools)
 | Folder Category                                                                              | About                                                                      |
 | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | [SampleSubmission](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/SampleSubmission)         | - Folder containing sample tool `tool.md` inside a demo category named `SampleSubmission`                          |
-| [credential_scanning](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/credential_scanning)     | - Folder containing tools for user credential scannings                    |
+| [Credential_Scanning](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/credential_scanning)     | - Folder containing tools for user credential scannings                    |
 | [CTF](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/CTF)                                   | - Folder containing CTF tools                                              |
-| [exploitation](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/exploitation)                 | - Folder containing exploitation tools                                     |
-| [frameworks](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/frameworks)                     | - Folder containing frameworks presented at Defcon (DC)                    |
-| [hardening](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/hardening)                       | - Folder with all hardening tools as seen in Defcon                        |
-| [lock_picking](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/lock_picking)                 | - Folder containing lock picking materials presented at Defcon             |
-| [malware_research](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/malware_research)         | - Folder containing malware researches whose demo were presented at Defcon |
-| [network_attacks](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/network_attacks)           | - Folder containing network attack tools presented at Defcon Conference    |
+| [Exploitation](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/exploitation)                 | - Folder containing exploitation tools                                     |
+| [Frameworks](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/frameworks)                     | - Folder containing frameworks presented at Defcon (DC)                    |
+| [Hardening](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/hardening)                       | - Folder with all hardening tools as seen in Defcon                        |
+| [Lock_Picking](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/lock_picking)                 | - Folder containing lock picking materials presented at Defcon             |
+| [Malware_Research](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/malware_research)         | - Folder containing malware researches whose demo were presented at Defcon |
+| [Network_Attacks](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/network_attacks)           | - Folder containing network attack tools presented at Defcon Conference    |
 | [P2P](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/P2P)           | - Folder containing Peerto Peer security tools presented at Defcon Conference    |
-| [phishing](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/phishing)                         | - Folder containing tools categorized as of phishing nature                |
-| [radio-frequency](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/radio-frequency)           | - Folder containing radio frequency arsenal tools presented at Defcon Conference    |
-| [reverse_exploitation](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/reverse_exploitation) | - Folder containing reverse exploitation tools presented at Defcon         |
+| [Phishing](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/phishing)                         | - Folder containing tools categorized as of phishing nature                |
+| [Radio-Frequency](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/radio-frequency)           | - Folder containing radio frequency arsenal tools presented at Defcon Conference    |
+| [Reverse_Exploitation](https://github.com/Defcon-Parrot/DefconArsenalTools/tree/main/reverse_exploitation) | - Folder containing reverse exploitation tools presented at Defcon         |
 
 <b>Disclaimer</b>: This project is intended for educational and informational purposes only. The authors and contributors are not responsible for any misuse or illegal activities conducted with the tools and resources provided in this repository. Always ensure that you have proper authorization and adhere to applicable laws and regulations while using these tools.
 
