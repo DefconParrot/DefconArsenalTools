@@ -10,7 +10,7 @@ Author/presenter: [Roy Stultiens](#), [Siebren Kraak](#) @ ([Secura](https://www
 
  A broken-by-design Azure environment to practice and train security skills in the cloud domain. 
 
- ![DEF CON 30 - BrokenbyDesign - Vulnerable Azure Enivornment - Roy Stultiens, Siebren Kraak](180998359-a17af967-84bc-4541-af75-06a1ea4e5927.png)
+ ![DEF CON 30 - BrokenbyDesign - Vulnerable Azure Enivornment - Roy Stultiens, Siebren Kraak](https://user-images.githubusercontent.com/14212955/180998359-a17af967-84bc-4541-af75-06a1ea4e5927.png)
 
  A vulnerable Azure architecture that is online 24/7. The environment provides several flags that can be found by exploiting Azure vulnerabilities.
 
