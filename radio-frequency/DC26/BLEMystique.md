@@ -1,4 +1,4 @@
-#   BLEMystique is an ESP32 based custom BLE target 
+#   BLEMystique: ESP32-based Custom BLE Target 
 
 Category: BLE, ESP32
 
