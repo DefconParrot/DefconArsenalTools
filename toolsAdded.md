@@ -43,3 +43,9 @@ ctrl + F => Easily check if a tool you intend to add has been already added / or
 | [Wine_Pairing_with_Malware](https://github.com/DefconParrot/DefconArsenalTools/blob/main/malware_research/DC31/Wine_Pairing_with_Malware.md) | Added |
 | [Evasion](https://github.com/DefconParrot/DefconArsenalTools/blob/main/Evasion/DC30/AceLdr.md) | Added |
 | [Ensemble](https://github.com/DefconParrot/DefconArsenalTools/blob/main/uncategorized/DC31/Ensemble.md) | Added |
+| [BrokenbyDesign](https://github.com/DefconParrot/DefconArsenalTools/blob/main/Cloud/DC30/brokenbydesign-azure.md) | Added |
+| [AzureGoat](https://github.com/DefconParrot/DefconArsenalTools/blob/main/Cloud/DC30/AzureGoat.md) | Added |
+| [BLEMystique](https://github.com/DefconParrot/DefconArsenalTools/blob/main/radio-frequency/DC26/BLEMystique.md) | Added |
+| [VoIPShark](https://github.com/DefconParrot/DefconArsenalTools/blob/mainnetwork_analysis/DCChina1/VoIPShark.md) | Added |
+| [Zfone](https://github.com/DefconParrot/DefconArsenalTools/blob/mainnetwork_analysis/Telephony/DC15/zphone.md) | Added |
+
