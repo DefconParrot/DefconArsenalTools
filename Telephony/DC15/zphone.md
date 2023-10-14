@@ -21,7 +21,7 @@ The ZRTP protocol used by Zfone will soon be integrated into many standalone sec
 
 - Link to Talk(presentation)📺 => https://www.youtube.com/watch?v=-kinDrJPp9c
 
-## Author Descriptions (Pentester Academy)
+## Author Descriptions
 - *Philip R. Zimmermann* -  Creator of Pretty Good Privacy
 
 ## Author's Social Links:
