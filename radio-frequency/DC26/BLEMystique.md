@@ -30,4 +30,4 @@ BLEMystique allows a pentester to play with the BLE smart devices with a single 
 ## Author's Social Links:
 
 - [LinkedIn: Nishant Sharma](https://www.linkedin.com/in/nishantsharmax)
-- [About Me: Siebren Kraak](https://ine.com/learning/instructors/jeswin-mathai)
+- [About Me: Jeswin Mathai](https://ine.com/learning/instructors/jeswin-mathai)
