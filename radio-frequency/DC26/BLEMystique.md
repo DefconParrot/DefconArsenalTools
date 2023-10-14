@@ -23,7 +23,7 @@ BLEMystique allows a pentester to play with the BLE smart devices with a single 
 
 - Link to Source Code => https://github.com/pentesteracademy/blemystique
 
-## Author Descriptions (Secura Researchers)
+## Author Descriptions (Pentester Academy)
 - *Nishant Sharma* - Technical Manager
 - *Jeswin Mathai* - Security Researcher
 

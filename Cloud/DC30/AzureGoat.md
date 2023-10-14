@@ -23,9 +23,9 @@ AzureGoat is a vulnerable by design infrastructure on Azure featuring the latest
 
 - Link to Blog => N/A
 
-## Author Descriptions (Secura Researchers)
+## Author Descriptions (INE)
 - *Nishant Sharma* - Security Research Manager
-- *Rachna Umraniya* -  Cloud Developer
+- *Rachna Umraniya* - Cloud Developer
 
 ## Author's Social Links:
 
