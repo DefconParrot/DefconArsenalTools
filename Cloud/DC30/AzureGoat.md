@@ -10,7 +10,7 @@ Author/presenter: [Nishant Sharma](#), [Rachna Umraniya](#) @ ([INE](https://ine
 
 AzureGoat is a vulnerable by design infrastructure on Azure featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration based on services such as App Functions, CosmosDB, Storage Accounts, Automation and Identities. AzureGoat mimics real-world infrastructure but with added vulnerabilities. It features multiple escalation paths and is focused on a black-box approach.
 
- ![DEF CON 30 - AzureGoat : A Damn Vulnerable Azure Infrastructure - Nishant Sharma, Rachna Umraniya](183740998-da6f7ae7-2df0-4557-a6f5-2f0040ebe0dc.png)
+ ![DEF CON 30 - AzureGoat : A Damn Vulnerable Azure Infrastructure - Nishant Sharma, Rachna Umraniya]([183740998-da6f7ae7-2df0-4557-a6f5-2f0040ebe0dc.png](https://user-images.githubusercontent.com/25884689/183740998-da6f7ae7-2df0-4557-a6f5-2f0040ebe0dc.png)
 
  A vulnerable Azure infrastructure that featuries the latest OWASP Top 10 web app security risks. The environment provides multiple escalation paths and is focused on a black-box approach.
 
