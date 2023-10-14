@@ -44,3 +44,5 @@ ctrl + F => Easily check if a tool you intend to add has been already added / or
 | [Evasion](https://github.com/DefconParrot/DefconArsenalTools/blob/main/Evasion/DC30/AceLdr.md) | Added |
 | [Ensemble](https://github.com/DefconParrot/DefconArsenalTools/blob/main/uncategorized/DC31/Ensemble.md) | Added |
 | [BrokenbyDesign](https://github.com/DefconParrot/DefconArsenalTools/blob/main/Cloud/DC30/brokenbydesign-azure.md) | Added |
+| [AzureGoat](https://github.com/DefconParrot/DefconArsenalTools/blob/main/Cloud/DC30/AzureGoat.md) | Added |
+
