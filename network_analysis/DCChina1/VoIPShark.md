@@ -22,6 +22,7 @@ VoIPshark is an open source platform for VoIP analysis. It is created as a colle
 - Link to Talk(presentation)📺 => https://www.youtube.com/watch?v=34dTuvBmdMk
 
 ## Author Descriptions (Pentester Academy)
+- *Ashish Bhangale* - Senior Security Researcher
 - *Nishant Sharma* - Technical Manager
 - *Jeswin Mathai* - Security Researcher
 
