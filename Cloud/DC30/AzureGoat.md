@@ -15,7 +15,7 @@ AzureGoat is a vulnerable by design infrastructure on Azure featuring the latest
  A vulnerable Azure infrastructure that featuries the latest OWASP Top 10 web app security risks. The environment provides multiple escalation paths and is focused on a black-box approach.
 
  ## Reference Links:
-- Link to Tool⚙️ => [AzureGoat](hhttps://github.com/ine-labs/AzureGoat)
+- Link to Tool⚙️ => [AzureGoat](https://github.com/ine-labs/AzureGoat)
 
 - Link to slide✍️ => https://infocondb.org/con/def-con/def-con-30/azuregoat-damn-vulnerable-azure-infrastructure
 
@@ -30,4 +30,4 @@ AzureGoat is a vulnerable by design infrastructure on Azure featuring the latest
 ## Author's Social Links:
 
 - [LinkedIn: Nishant Sharma](https://www.linkedin.com/in/nishantsharmax)
-- [LinkedIn: Rachna Umraniya](hhttps://www.linkedin.com/in/rachnaumaraniya)
+-[LinkedIn: Rachna Umraniya](https://www.linkedin.com/in/rachnaumaraniya)
