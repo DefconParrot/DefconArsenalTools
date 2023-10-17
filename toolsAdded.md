@@ -10,7 +10,7 @@ ctrl + F => Easily check if a tool you intend to add has been already added / or
 | [FRAK](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC20/FRAK.md) | Added |
 | [TeamFiltration](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC30/TeamFiltration.md) | Added |
 | [canTot](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC30/canTot.md) | Added |
-| [EMBA](https://github.com/DefconParrot/DefconArsenalTools/blob/main/hardening/EMBA.md) | Added |
+| [EMBA](https://github.com/DefconParrot/DefconArsenalTools/blob/main/hardening/DC30/EMBA.md) | Added |
 | [Gatekeyper](https://github.com/DefconParrot/DefconArsenalTools/blob/main/lock_picking/DC26/Gatekeyper.md) | Added |
 | [BULA-Virus](https://github.com/DefconParrot/DefconArsenalTools/blob/main/malware_research/DC30/BULA-Virus.md) | Added |
 | [CANalyse](https://github.com/DefconParrot/DefconArsenalTools/blob/main/network_attacks/DC30/CANalyse.md) | Added |
