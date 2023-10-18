@@ -2,6 +2,14 @@
 
 Welcome to Defcon Arsenal Tools ([DArT](https://github.com/DefconParrot/DefconArsenalTools)) repository, which aims to provide a comprehensive collection of tools and resources for security professionals and enthusiasts attending the DEFCON conference. In this README, you will find information on how to contribute to the project and help make it better.
 
+<a href="https://github.com/DefconParrot/DefconArsenalTools" _target="blank">
+  <img src="https://img.shields.io/badge/Defcon_Arsenal_Tools-DArTs-yellow?style=flat-square"/>
+</a>
+<a href="https://github.com/DefconParrot/DefconArsenalTools" _target="blank"><img src="https://img.shields.io/github/last-commit/DefconParrot/DefconArsenalTools/main?style=flat-square">
+</a> <a href="https://img.shields.io/twitter/follow/DCArsenalTools" _target="blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/DCArsenalTools">
+</a> <a href="https://img.shields.io/mastodon/follow/111013782497791351?domain=https%3A%2F%2Fdefcon.social&style=flat-square" _target="blank"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/111013782497791351?domain=https%3A%2F%2Fdefcon.social&style=flat-square&labelColor=%235B4BE1&color=%23000622">
+</a>
+
 ![DEFCON Arsenal Tools](https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/ccd2ac91-2557-436a-80d6-6ce280c9f05b)
 
 Current Update: <b><i>DC1 - DC31</i></b>
@@ -10,6 +18,8 @@ Repo aims to improve this DC page -> [Tools](https://defcon.org/html/links/dc-to
 ---
 
 ---
+
+<a name="top"></a>
 
 > ## Table of Contents</h2></b>
 >
@@ -45,6 +55,7 @@ Defcon Arsenal Tools ([DArT](https://github.com/DefconParrot/DefconArsenalTools)
 | [Phishing](https://github.com/DefconParrot/DefconArsenalTools/tree/main/phishing)                         | - Folder containing tools categorized as of phishing nature                |
 | [Radio-Frequency](https://github.com/DefconParrot/DefconArsenalTools/tree/main/radio-frequency)           | - Folder containing radio frequency arsenal tools presented at Defcon Conference    |
 | [Reverse_Exploitation](https://github.com/DefconParrot/DefconArsenalTools/tree/main/reverse_exploitation) | - Folder containing reverse exploitation tools presented at Defcon         |
+| [uncategorized](https://github.com/DefconParrot/DefconArsenalTools/tree/main/reverse_exploitation) | - Defcon tools that are yet to be categorized         |
 
 <b>Disclaimer</b>: This project is intended for educational and informational purposes only. The authors and contributors are not responsible for any misuse or illegal activities conducted with the tools and resources provided in this repository. Always ensure that you have proper authorization and adhere to applicable laws and regulations while using these tools.
 
@@ -223,3 +234,7 @@ If you have any questions or need further assistance, don't hesitate to reach ou
 ## License
 
 ![GNU General Public License](https://www.gnu.org/graphics/gplv3-127x51.png) <br>This work is licensed under a <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3.0</a>.
+
+___
+
+[⬆ Back to Top](#top)
