@@ -50,3 +50,4 @@ ctrl + F => Easily check if a tool you intend to add has been already added / or
 | [Zfone](https://github.com/DefconParrot/DefconArsenalTools/blob/mainnetwork_analysis/Telephony/DC15/zphone.md) | Added |
 | [guestlist](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC31/guestlist.md) | Added |
 | [FuncoPop](https://github.com/DefconParrot/DefconArsenalTools/blob/main/Cloud/DC31/FuncoPop.md) | Added |
+| [akto](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC31/akto.md) | Added |
