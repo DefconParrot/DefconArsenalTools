@@ -4,7 +4,7 @@ Category/Tags: Hardening tools, C, reverse engeneering, Binary
 
 Tool Presented at: Defcon 31 - (Y.2023)
 
-Author/presenter: [ElfMaster](https://twitter.com/Aktodotio)
+Author/presenter: [ElfMaster](https://twitter.com/ryan_elfmaster)
 
 ## Tool Description
 
