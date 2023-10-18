@@ -3,11 +3,11 @@
 Welcome to Defcon Arsenal Tools ([DArT](https://github.com/DefconParrot/DefconArsenalTools)) repository, which aims to provide a comprehensive collection of tools and resources for security professionals and enthusiasts attending the DEFCON conference. In this README, you will find information on how to contribute to the project and help make it better.
 
 <a href="https://github.com/DefconParrot/DefconArsenalTools" _target="blank">
-  <img src="https://img.shields.io/badge/Defcon_Arsenal_Tools-DArTs-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Defcon_Arsenal_Tools-DArTs-yellow?style=plastic"/>
 </a>
-<a href="https://github.com/DefconParrot/DefconArsenalTools" _target="blank"><img src="https://img.shields.io/github/last-commit/DefconParrot/DefconArsenalTools/main?style=flat-square">
+<a href="https://github.com/DefconParrot/DefconArsenalTools" _target="blank"><img src="https://img.shields.io/github/last-commit/DefconParrot/DefconArsenalTools/main?style=plastic">
 </a> <a href="https://img.shields.io/twitter/follow/DCArsenalTools" _target="blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/DCArsenalTools">
-</a> <a href="https://img.shields.io/mastodon/follow/111013782497791351?domain=https%3A%2F%2Fdefcon.social&style=flat-square" _target="blank"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/111013782497791351?domain=https%3A%2F%2Fdefcon.social&style=flat-square&labelColor=%235B4BE1&color=%23000622">
+</a> <a href="https://img.shields.io/mastodon/follow/111013782497791351?domain=https%3A%2F%2Fdefcon.social&style=plastic" _target="blank"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/111013782497791351?domain=https%3A%2F%2Fdefcon.social&style=plastic&labelColor=%235B4BE1&color=%23000622">
 </a>
 
 ![DEFCON Arsenal Tools](https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/ccd2ac91-2557-436a-80d6-6ce280c9f05b)
