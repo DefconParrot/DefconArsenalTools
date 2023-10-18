@@ -51,3 +51,4 @@ ctrl + F => Easily check if a tool you intend to add has been already added / or
 | [guestlist](https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC31/guestlist.md) | Added |
 | [FuncoPop](https://github.com/DefconParrot/DefconArsenalTools/blob/main/Cloud/DC31/FuncoPop.md) | Added |
 | [akto](https://github.com/DefconParrot/DefconArsenalTools/blob/main/frameworks/DC31/akto.md) | Added |
+| [shiva](https://github.com/DefconParrot/DefconArsenalTools/blob/main/hardening/DC31/shiva.md) | Added |
