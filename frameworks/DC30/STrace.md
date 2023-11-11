@@ -8,11 +8,9 @@ Category/Tags: Framework, DTrace, Windows SysCall
 
 ## Tool Description
 
- **Title** :  STrace: DTrace on Windows Reimplementation
-
  ![STrace](https://user-images.githubusercontent.com/6619205/239956166-bc9b2103-717a-4df1-8c6a-a001db1c75fc.png)
 
- Steve's Tracer — a reimplementation of Windows syscall hook using DTrace. A PatchGuard-compatible SSDT hook, but without any hacks. It doesn't extend support to SSSDT (win32k APIs) since the DTrace system call APIs inherently lack compatibility with this additional table. However, it enables tracing Zw* kernel APIs along with all user-mode SSDT syscalls.
+Steve's Tracer — a reimplementation of Windows syscall hook using DTrace. A PatchGuard-compatible SSDT hook, but without any hacks. It doesn't extend support to SSSDT (win32k APIs) since the DTrace system call APIs inherently lack compatibility with this additional table. However, it enables tracing Zw* kernel APIs along with all user-mode SSDT syscalls.
 
 ## Reference Links:
 
