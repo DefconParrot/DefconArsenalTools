@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.py
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+# For pyenv users
+.python-version
+
+# Distribution / build outputs
+build/
+dist/
+develop-eggs/
+eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.tox/
+htmlcov/
+
+# Editors and IDEs
+.idea/  # IntelliJ IDEA
+.vscode/ # VS Code
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+.DS_Store # macOS specific
+
+# Miscellaneous
+*.log
+*.sqlite3 # Django database files
+*.db
