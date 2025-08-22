@@ -1,0 +1,2794 @@
+{
+  "generated_at": "2025-08-22T13:21:31.990053+00:00",
+  "repo": "C:\\Users\\hyi\\Downloads\\DefconArsenalTools",
+  "tool_count": 56,
+  "categories": [
+    {
+      "name": "802.11",
+      "tools": [
+        {
+          "title": "WIFISHARK",
+          "filename": "radio-frequency/DC31/802.11 WIFI/WIFISHARK.md",
+          "dc": "Defcon 31 @ Radio Frequency Village",
+          "presenters": [
+            {
+              "name": "Wasabi",
+              "url": "https://github.com/thewasabiguy"
+            }
+          ],
+          "description": "WIFIShark Profile",
+          "image": "",
+          "source_url": "https://github.com/thewasabiguy",
+          "talk_url": "https://www.youtube.com/watch?v=fLyK4CIkygI",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "wifi",
+            "wireshark",
+            "802.11",
+            "rf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Apple",
+      "tools": [
+        {
+          "title": "ApplwJuice",
+          "filename": "radio-frequency/DC31/BT-BLE/AppleJuice.md",
+          "dc": "Defcon 31 via @ Apple iPhone feat. Flipper Zero",
+          "presenters": [
+            {
+              "name": "ECTO-1A",
+              "url": "https://github.com/ECTO-1A"
+            },
+            {
+              "name": "WillyJL",
+              "url": "https://github.com/Willy-JL/Willy-JL"
+            }
+          ],
+          "description": "These scripts are an experimental PoC that uses Bluetooth Low Energy (BLE) to send proximity pairing messages to Apple devices.",
+          "image": "",
+          "source_url": "https://github.com/ECTO-1A",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "apple",
+            "spoofing",
+            "ble"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Azure",
+      "tools": [
+        {
+          "title": "AzureGoat : A Damn Vulnerable Azure Infrastructure",
+          "filename": "Cloud/DC30/AzureGoat.md",
+          "dc": "Defcon 30 - (Y.2022)",
+          "presenters": [
+            {
+              "name": "INE",
+              "url": "https://ine.com/"
+            }
+          ],
+          "description": "AzureGoat is a vulnerable by design infrastructure on Azure featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration based on services such as App Functions, CosmosDB, Storage Accounts, Automation and Identities. AzureGoat mimics real-world infrastructure but with added vulnerabilities. It features multiple escalation paths and is focused on a black-box approach.",
+          "image": "https://user-images.githubusercontent.com/25884689/183740998-da6f7ae7-2df0-4557-a6f5-2f0040ebe0dc.png",
+          "source_url": "https://github.com/ine-labs/AzureGoat",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "azure",
+            "cloud",
+            "vulnerable",
+            "terraform"
+          ]
+        },
+        {
+          "title": "BrokenbyDesign - Vulnerable Azure Enivornment",
+          "filename": "Cloud/DC30/brokenbydesign-azure.md",
+          "dc": "Defcon 30 - (Y.2022)",
+          "presenters": [
+            {
+              "name": "Secura",
+              "url": "https://www.secura.net/"
+            }
+          ],
+          "description": "A broken-by-design Azure environment to practice and train security skills in the cloud domain.",
+          "image": "https://user-images.githubusercontent.com/14212955/180998359-a17af967-84bc-4541-af75-06a1ea4e5927.png",
+          "source_url": "https://github.com/SecuraBV/brokenbydesign-azure",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "azure",
+            "cloud",
+            "vulnerable",
+            "terraform",
+            "exploit",
+            "hacking"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Backdoor",
+      "tools": [
+        {
+          "title": "TeamFiltration",
+          "filename": "frameworks/DC30/TeamFiltration.md",
+          "dc": "Defcon 30 via @ TrustedSec",
+          "presenters": [
+            {
+              "name": "Melvin langvik",
+              "url": "https://twitter.com/Flangvik"
+            }
+          ],
+          "description": "TeamFiltration is a cross-platform framework for enumerating, spraying, exfiltrating, and backdooring O365 AAD accounts.",
+          "image": "https://pbs.twimg.com/media/FeaVEMiXgAwIdrQ?format=png",
+          "source_url": "https://github.com/Flangvik/TeamFiltration",
+          "talk_url": "https://www.youtube.com/watch?v=GpZTQHLKelg&feature=youtu.be",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "frameworks",
+            "backdoor",
+            "framework"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Balloon",
+      "tools": [
+        {
+          "title": "Wigle_Balloon",
+          "filename": "radio-frequency/DC31/wardriving/Wigle_Balloon.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "lozaning",
+              "url": "https://github.com/lozaning"
+            }
+          ],
+          "description": "I am a balloon that surfs the jet streams in search of wifi in space!",
+          "image": "https://pbs.twimg.com/profile_images/1552098838588137472/cA95Vxvm_400x400.jpg",
+          "source_url": "https://github.com/lozaning",
+          "talk_url": "https://www.youtube.com/watch?v=kF5BnM2OUMs",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "wardriving",
+            "wigle",
+            "balloon",
+            "rf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ble",
+      "tools": [
+        {
+          "title": "Hacking Bluetooth Low Energy Locks",
+          "filename": "radio-frequency/DC24/Hacking_BLE_Locks.md",
+          "dc": "Defcon 24",
+          "presenters": [
+            {
+              "name": "BC Security",
+              "url": "https://github.com/BC-SECURITY"
+            },
+            {
+              "name": "Anthony 'Cx01N' Rose",
+              "url": "https://github.com/Cx01N"
+            },
+            {
+              "name": "Ben Ramsey",
+              "url": "https://github.com/ramsey"
+            }
+          ],
+          "description": "Open-source tools to crack vulnerable BLE locks. Many Bluetooth Low Energy (BLE) enabled deadbolts and padlocks have hit the market recently. These devices promise convenience and security through smartphone control. We investigated sixteen of these products from multiple vendors and discovered wireless vulnerabilities in most of them. Using a $50 antenna, we successfully picked vulnerable locks from over 400 meters away.",
+          "image": "",
+          "source_url": "https://github.com/BC-SECURITY",
+          "talk_url": "https://www.youtube.com/watch?v=KrOReHwjCKI",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "ble",
+            "lockpicking",
+            "hacking"
+          ]
+        },
+        {
+          "title": "BLEMystique: ESP32-based Custom BLE Target",
+          "filename": "radio-frequency/DC26/BLEMystique.md",
+          "dc": "Defcon 26 - (Y.2018)",
+          "presenters": [
+            {
+              "name": "Pentester Academy",
+              "url": "https://www.pentesteracademy.com/"
+            }
+          ],
+          "description": "BLEMystique is an ESP32 based custom BLE target which can be configured by the user to behave like one of the multiple BLE devices.",
+          "image": "https://user-images.githubusercontent.com/743886/43906600-85558dc8-9ba8-11e8-8ec3-bacc2696cf39.png",
+          "source_url": "https://github.com/pentesteracademy/blemystique",
+          "talk_url": "https://www.youtube.com/watch?v=21WIxc1uCMA&list=PLPImreb0jV3Cxcja-Ox-fqT_NLU0dviIx",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "ble",
+            "esp32"
+          ]
+        },
+        {
+          "title": "ApplwJuice",
+          "filename": "radio-frequency/DC31/BT-BLE/AppleJuice.md",
+          "dc": "Defcon 31 via @ Apple iPhone feat. Flipper Zero",
+          "presenters": [
+            {
+              "name": "ECTO-1A",
+              "url": "https://github.com/ECTO-1A"
+            },
+            {
+              "name": "WillyJL",
+              "url": "https://github.com/Willy-JL/Willy-JL"
+            }
+          ],
+          "description": "These scripts are an experimental PoC that uses Bluetooth Low Energy (BLE) to send proximity pairing messages to Apple devices.",
+          "image": "",
+          "source_url": "https://github.com/ECTO-1A",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "apple",
+            "spoofing",
+            "ble"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bypass",
+      "tools": [
+        {
+          "title": "Jacob Baines - Do Not Trust the ASA, Trojans!",
+          "filename": "exploitation/DC30/cisco_asa_research.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Jacob Baines",
+              "url": "https://twitter.com/Junior_Baines"
+            }
+          ],
+          "description": "Cisco ASA Software and ASDM Security Research : Slides and code presented at BHUSA 2022 and DEF CON 30.",
+          "image": "https://pbs.twimg.com/media/FZQGkY9WYAMr77d?format=jpg&name=large",
+          "source_url": "https://github.com/jbaines-r7/cisco_asa_research",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploitation",
+            "bypass",
+            "hacking",
+            "exploit"
+          ]
+        },
+        {
+          "title": "EDRSandBlast",
+          "filename": "exploitation/DC30/EDRSandBlast.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Maxime Meignan (th3m4ks)",
+              "url": "https://twitter.com/th3m4ks"
+            },
+            {
+              "name": "Thomas Diot (Qazeer)",
+              "url": "https://twitter.com/_Qazeer"
+            }
+          ],
+          "description": "EDRSandBlast is a tool written in C that implements and industrializes known as well as original bypass techniques to make EDR evasion easier during adversary simulations. Both user-land and kernel-land EDR detection capabilities can be bypassed, using multiple unhooking techniques and a vulnerable signed driver to unregister kernel callbacks and disable the ETW Threat Intelligence provider. Since the initial release, multiple improvements have been implemented in EDRSandBlast: it is now possible to use this toolbox as a library from another attacking tool, new bypasses have been implemented, the embedded vulnerable driver is now interchangeable to increase stealthiness and the use of a pre-built offsets database is no more required! Come discover our tool and its new features, learn (or teach us!) something about EDRs and discuss about the potential improvements to this project.",
+          "image": "https://pbs.twimg.com/media/Favwmx3XgAAR2Tk?format=jpg&name=4096x4096",
+          "source_url": "https://github.com/wavestone-cdt/EDRSandblast/tree/DefCon30Release",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploitation",
+            "bypass",
+            "exploit"
+          ]
+        },
+        {
+          "title": "RISC-V: Emoji Shellcoding 🙂",
+          "filename": "exploitation/DC30/emoji_shellcoding.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Georges-Axel Jaloyan",
+              "url": "https://twitter.com/GAJaloyan"
+            }
+          ],
+          "description": "Shellcodes are short executable stubs that are used in various attack scenarios, whenever code execution is possible. After quickly recalling what a shellcode is and why designing shellcodes under constraints is an art, we'll study a new constraint for which (to the best of our knowledge) no such shellcode was previously known: emoji shellcoding. We'll tackle this problem by introducing a new and more generic approach to shellcoding under constraints. Brace yourselves, you'll see some black magic weaponizing these cute little emojis 🥰 into merciless exploits 👿.",
+          "image": "https://video-images.vice.com/articles/62fa4a97f81113009460f860/lede/1660571450368-screen-shot-2022-08-15-at-95032-am.png?crop=0.9876543209876543xw:1xh;center,center&resize=1200:*",
+          "source_url": "https://github.com/RischardV/emoji-shellcoding",
+          "talk_url": "https://youtu.be/E8puAkalMRQ",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploitation",
+            "bypass",
+            "hacking",
+            "exploit"
+          ]
+        },
+        {
+          "title": "Powerpwn: An offensive/defensive security toolset for Microsoft 365 Power Platform.",
+          "filename": "exploitation/DC30/powerpwn.md",
+          "dc": "DEF CON 30 and Black Hat USA 2023",
+          "presenters": [
+            {
+              "name": "Michael Bargury",
+              "url": ""
+            }
+          ],
+          "description": "Presenter: Michael Bargury",
+          "image": "https://github.com/mbrg/power-pwn/blob/main/wiki/powerpwn_asci_black.png",
+          "source_url": "https://github.com/mbrg/power-pwn/blob/main/wiki/powerpwn_asci_black.png",
+          "talk_url": "https://www.youtube.com/watch?v=e8PEIOa6W9M",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploitation",
+            "bypass",
+            "hacking",
+            "phishing",
+            "malware",
+            "exploit"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C2",
+      "tools": [
+        {
+          "title": "Empire 4.0 and Beyond",
+          "filename": "frameworks/DC30/Empire.md",
+          "dc": "Defcon 30",
+          "presenters": [
+            {
+              "name": "BC Security",
+              "url": "https://github.com/BC-SECURITY"
+            },
+            {
+              "name": "Anthony 'Cx01N' Rose",
+              "url": "https://github.com/Cx01N"
+            },
+            {
+              "name": "Vincent 'Vinnybod' Rose",
+              "url": "https://github.com/vinnybod"
+            },
+            {
+              "name": "Jake 'Hubbl3' Krasnov",
+              "url": "https://github.com/Hubbl3"
+            }
+          ],
+          "description": "Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers.",
+          "image": "https://user-images.githubusercontent.com/20302208/70022749-1ad2b080-154a-11ea-9d8c-1b42632fd9f9.jpg",
+          "source_url": "https://github.com/BC-SECURITY",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "command and control",
+            "frameworks",
+            "c2",
+            "framework",
+            "exploit",
+            "exploitation"
+          ]
+        },
+        {
+          "title": "Long Live the Empire: A C2 Workshop for Modern Red Teaming",
+          "filename": "frameworks/DC31/Long_Live_the_Empire.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "BC Security",
+              "url": "https://github.com/BC-SECURITY"
+            },
+            {
+              "name": "Anthony 'Cx01N' Rose",
+              "url": "https://github.com/Cx01N"
+            },
+            {
+              "name": "Jake 'Hubbl3' Krasnov",
+              "url": "https://github.com/Hubbl3"
+            },
+            {
+              "name": "Vincent 'Vinnybod' Rose",
+              "url": "https://github.com/vinnybod"
+            }
+          ],
+          "description": "Comprehensive workshop to equip participants with an in-depth understanding of modern Command and Control (C2) concepts, focusing on the open-source Empire C2 framework. Learn how to deploy and leverage the Empire framework for executing advanced attack scenarios, thereby sharpening their skills as red team operators.",
+          "image": "",
+          "source_url": "https://github.com/BC-SECURITY",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "command and control",
+            "c2",
+            "framework"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cloud",
+      "tools": [
+        {
+          "title": "AzureGoat : A Damn Vulnerable Azure Infrastructure",
+          "filename": "Cloud/DC30/AzureGoat.md",
+          "dc": "Defcon 30 - (Y.2022)",
+          "presenters": [
+            {
+              "name": "INE",
+              "url": "https://ine.com/"
+            }
+          ],
+          "description": "AzureGoat is a vulnerable by design infrastructure on Azure featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration based on services such as App Functions, CosmosDB, Storage Accounts, Automation and Identities. AzureGoat mimics real-world infrastructure but with added vulnerabilities. It features multiple escalation paths and is focused on a black-box approach.",
+          "image": "https://user-images.githubusercontent.com/25884689/183740998-da6f7ae7-2df0-4557-a6f5-2f0040ebe0dc.png",
+          "source_url": "https://github.com/ine-labs/AzureGoat",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "azure",
+            "cloud",
+            "vulnerable",
+            "terraform"
+          ]
+        },
+        {
+          "title": "BrokenbyDesign - Vulnerable Azure Enivornment",
+          "filename": "Cloud/DC30/brokenbydesign-azure.md",
+          "dc": "Defcon 30 - (Y.2022)",
+          "presenters": [
+            {
+              "name": "Secura",
+              "url": "https://www.secura.net/"
+            }
+          ],
+          "description": "A broken-by-design Azure environment to practice and train security skills in the cloud domain.",
+          "image": "https://user-images.githubusercontent.com/14212955/180998359-a17af967-84bc-4541-af75-06a1ea4e5927.png",
+          "source_url": "https://github.com/SecuraBV/brokenbydesign-azure",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "azure",
+            "cloud",
+            "vulnerable",
+            "terraform",
+            "exploit",
+            "hacking"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Command And Control",
+      "tools": [
+        {
+          "title": "Empire 4.0 and Beyond",
+          "filename": "frameworks/DC30/Empire.md",
+          "dc": "Defcon 30",
+          "presenters": [
+            {
+              "name": "BC Security",
+              "url": "https://github.com/BC-SECURITY"
+            },
+            {
+              "name": "Anthony 'Cx01N' Rose",
+              "url": "https://github.com/Cx01N"
+            },
+            {
+              "name": "Vincent 'Vinnybod' Rose",
+              "url": "https://github.com/vinnybod"
+            },
+            {
+              "name": "Jake 'Hubbl3' Krasnov",
+              "url": "https://github.com/Hubbl3"
+            }
+          ],
+          "description": "Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers.",
+          "image": "https://user-images.githubusercontent.com/20302208/70022749-1ad2b080-154a-11ea-9d8c-1b42632fd9f9.jpg",
+          "source_url": "https://github.com/BC-SECURITY",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "command and control",
+            "frameworks",
+            "c2",
+            "framework",
+            "exploit",
+            "exploitation"
+          ]
+        },
+        {
+          "title": "Long Live the Empire: A C2 Workshop for Modern Red Teaming",
+          "filename": "frameworks/DC31/Long_Live_the_Empire.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "BC Security",
+              "url": "https://github.com/BC-SECURITY"
+            },
+            {
+              "name": "Anthony 'Cx01N' Rose",
+              "url": "https://github.com/Cx01N"
+            },
+            {
+              "name": "Jake 'Hubbl3' Krasnov",
+              "url": "https://github.com/Hubbl3"
+            },
+            {
+              "name": "Vincent 'Vinnybod' Rose",
+              "url": "https://github.com/vinnybod"
+            }
+          ],
+          "description": "Comprehensive workshop to equip participants with an in-depth understanding of modern Command and Control (C2) concepts, focusing on the open-source Empire C2 framework. Learn how to deploy and leverage the Empire framework for executing advanced attack scenarios, thereby sharpening their skills as red team operators.",
+          "image": "",
+          "source_url": "https://github.com/BC-SECURITY",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "command and control",
+            "c2",
+            "framework"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ctf",
+      "tools": [
+        {
+          "title": "RTV Secure Terminal CTF",
+          "filename": "CTF/DC31/RTV_Secure_Terminal_CTF.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "BC Security",
+              "url": "https://github.com/BC-SECURITY"
+            }
+          ],
+          "description": "Secure Terminal CTF Challenge for DC31 Red Team Village",
+          "image": "https://github.com/BC-SECURITY/Red-Team-Village-CTF-2023/raw/main/img/sc1.png",
+          "source_url": "https://github.com/BC-SECURITY",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "ctf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Embedded",
+      "tools": [
+        {
+          "title": "The_Wifydra",
+          "filename": "radio-frequency/DC31/wardriving/The_Wifydra.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "lozaning",
+              "url": "https://github.com/lozaning"
+            }
+          ],
+          "description": "The Wifydra is open source hardware and software used to locate wireless access points for wardriving. The project is a continuation of the work done previously by Mike Spicer (d4rkm4tter) and his WiFi Cactus and Kraken. Designed to be a low power and low cost modular way of simultaneously monitoring all 2.4Ghz WiFi channels for AP beacons. By utilizing strictly off the shelf embedded components, the Wifydra is able to keep costs extremely low (~$90) and its footprint extremely small (250 square cm). More importantly, minimal power consumption is maintained, requiring only a USB C battery capable of putting out 10 watts. The Wifydra is modular in nature and supports a multitude of GNSS (Global Navigation Satellite System) options for location tagging. The ESP32-C5 for 5Ghz channel monitoring will also be supported once the hardware becomes available. The version of The Wifydra demoed consists of 14 ESP8266 called sub nodes, an additional ESP32 called the dom node, SD card holder, GNSS ",
+          "image": "https://user-images.githubusercontent.com/13127833/257694403-40c7db88-5f30-40e3-a340-c568a6b9d1a1.png",
+          "source_url": "https://github.com/lozaning",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "wardriving",
+            "wigle",
+            "esp32",
+            "embedded"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Esp32",
+      "tools": [
+        {
+          "title": "BLEMystique: ESP32-based Custom BLE Target",
+          "filename": "radio-frequency/DC26/BLEMystique.md",
+          "dc": "Defcon 26 - (Y.2018)",
+          "presenters": [
+            {
+              "name": "Pentester Academy",
+              "url": "https://www.pentesteracademy.com/"
+            }
+          ],
+          "description": "BLEMystique is an ESP32 based custom BLE target which can be configured by the user to behave like one of the multiple BLE devices.",
+          "image": "https://user-images.githubusercontent.com/743886/43906600-85558dc8-9ba8-11e8-8ec3-bacc2696cf39.png",
+          "source_url": "https://github.com/pentesteracademy/blemystique",
+          "talk_url": "https://www.youtube.com/watch?v=21WIxc1uCMA&list=PLPImreb0jV3Cxcja-Ox-fqT_NLU0dviIx",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "ble",
+            "esp32"
+          ]
+        },
+        {
+          "title": "The_Wifydra",
+          "filename": "radio-frequency/DC31/wardriving/The_Wifydra.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "lozaning",
+              "url": "https://github.com/lozaning"
+            }
+          ],
+          "description": "The Wifydra is open source hardware and software used to locate wireless access points for wardriving. The project is a continuation of the work done previously by Mike Spicer (d4rkm4tter) and his WiFi Cactus and Kraken. Designed to be a low power and low cost modular way of simultaneously monitoring all 2.4Ghz WiFi channels for AP beacons. By utilizing strictly off the shelf embedded components, the Wifydra is able to keep costs extremely low (~$90) and its footprint extremely small (250 square cm). More importantly, minimal power consumption is maintained, requiring only a USB C battery capable of putting out 10 watts. The Wifydra is modular in nature and supports a multitude of GNSS (Global Navigation Satellite System) options for location tagging. The ESP32-C5 for 5Ghz channel monitoring will also be supported once the hardware becomes available. The version of The Wifydra demoed consists of 14 ESP8266 called sub nodes, an additional ESP32 called the dom node, SD card holder, GNSS ",
+          "image": "https://user-images.githubusercontent.com/13127833/257694403-40c7db88-5f30-40e3-a340-c568a6b9d1a1.png",
+          "source_url": "https://github.com/lozaning",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "wardriving",
+            "wigle",
+            "esp32",
+            "embedded"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Exploitation",
+      "tools": [
+        {
+          "title": "Jacob Baines - Do Not Trust the ASA, Trojans!",
+          "filename": "exploitation/DC30/cisco_asa_research.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Jacob Baines",
+              "url": "https://twitter.com/Junior_Baines"
+            }
+          ],
+          "description": "Cisco ASA Software and ASDM Security Research : Slides and code presented at BHUSA 2022 and DEF CON 30.",
+          "image": "https://pbs.twimg.com/media/FZQGkY9WYAMr77d?format=jpg&name=large",
+          "source_url": "https://github.com/jbaines-r7/cisco_asa_research",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploitation",
+            "bypass",
+            "hacking",
+            "exploit"
+          ]
+        },
+        {
+          "title": "EDRSandBlast",
+          "filename": "exploitation/DC30/EDRSandBlast.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Maxime Meignan (th3m4ks)",
+              "url": "https://twitter.com/th3m4ks"
+            },
+            {
+              "name": "Thomas Diot (Qazeer)",
+              "url": "https://twitter.com/_Qazeer"
+            }
+          ],
+          "description": "EDRSandBlast is a tool written in C that implements and industrializes known as well as original bypass techniques to make EDR evasion easier during adversary simulations. Both user-land and kernel-land EDR detection capabilities can be bypassed, using multiple unhooking techniques and a vulnerable signed driver to unregister kernel callbacks and disable the ETW Threat Intelligence provider. Since the initial release, multiple improvements have been implemented in EDRSandBlast: it is now possible to use this toolbox as a library from another attacking tool, new bypasses have been implemented, the embedded vulnerable driver is now interchangeable to increase stealthiness and the use of a pre-built offsets database is no more required! Come discover our tool and its new features, learn (or teach us!) something about EDRs and discuss about the potential improvements to this project.",
+          "image": "https://pbs.twimg.com/media/Favwmx3XgAAR2Tk?format=jpg&name=4096x4096",
+          "source_url": "https://github.com/wavestone-cdt/EDRSandblast/tree/DefCon30Release",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploitation",
+            "bypass",
+            "exploit"
+          ]
+        },
+        {
+          "title": "RISC-V: Emoji Shellcoding 🙂",
+          "filename": "exploitation/DC30/emoji_shellcoding.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Georges-Axel Jaloyan",
+              "url": "https://twitter.com/GAJaloyan"
+            }
+          ],
+          "description": "Shellcodes are short executable stubs that are used in various attack scenarios, whenever code execution is possible. After quickly recalling what a shellcode is and why designing shellcodes under constraints is an art, we'll study a new constraint for which (to the best of our knowledge) no such shellcode was previously known: emoji shellcoding. We'll tackle this problem by introducing a new and more generic approach to shellcoding under constraints. Brace yourselves, you'll see some black magic weaponizing these cute little emojis 🥰 into merciless exploits 👿.",
+          "image": "https://video-images.vice.com/articles/62fa4a97f81113009460f860/lede/1660571450368-screen-shot-2022-08-15-at-95032-am.png?crop=0.9876543209876543xw:1xh;center,center&resize=1200:*",
+          "source_url": "https://github.com/RischardV/emoji-shellcoding",
+          "talk_url": "https://youtu.be/E8puAkalMRQ",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploitation",
+            "bypass",
+            "hacking",
+            "exploit"
+          ]
+        },
+        {
+          "title": "The PACMAN Attack: Breaking PAC on the Apple M1 with Hardware Attacks",
+          "filename": "exploitation/DC30/pacman.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Joseph Ravichandran, PhD student at MIT",
+              "url": "https://twitter.com/0xjprx/"
+            }
+          ],
+          "description": "What do you get when you cross pointer authentication with microarchitectural side channels?",
+          "image": "https://pacmanattack.com/assets/hat.dark.png",
+          "source_url": "https://github.com/jprx/DEFCON30-PACMAN",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploitation",
+            "hacking",
+            "exploit"
+          ]
+        },
+        {
+          "title": "Powerpwn: An offensive/defensive security toolset for Microsoft 365 Power Platform.",
+          "filename": "exploitation/DC30/powerpwn.md",
+          "dc": "DEF CON 30 and Black Hat USA 2023",
+          "presenters": [
+            {
+              "name": "Michael Bargury",
+              "url": ""
+            }
+          ],
+          "description": "Presenter: Michael Bargury",
+          "image": "https://github.com/mbrg/power-pwn/blob/main/wiki/powerpwn_asci_black.png",
+          "source_url": "https://github.com/mbrg/power-pwn/blob/main/wiki/powerpwn_asci_black.png",
+          "talk_url": "https://www.youtube.com/watch?v=e8PEIOa6W9M",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploitation",
+            "bypass",
+            "hacking",
+            "phishing",
+            "malware",
+            "exploit"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "File Sharing",
+      "tools": [
+        {
+          "title": "Veilid",
+          "filename": "P2P/DC31/Veilid.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "Christien 'DilDog' Rioux",
+              "url": "https://gitlab.com/crioux"
+            }
+          ],
+          "description": "Veilid is an open-source, peer-to-peer, mobile-first networked application framework, with a flagship secure messaging application named VeilidChat. Veilid is conceptually similar to IPFS + Tor, but faster and designed from the ground-up to provide all services over a privately routed network. The network also enables development of distributed applications without a 'blockchain' or a 'transactional layer' at their base. Veilid can be included as part of user-facing applications or run as a standalone server for power users who wish to help build the network.",
+          "image": "https://veilid.com/img/Veilid.svg",
+          "source_url": "",
+          "talk_url": "https://youtu.be/Kb1lKscAMDQ?si=IiHnrCcjSodpEZbO",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "p2p",
+            "file sharing",
+            "social media",
+            "framework",
+            "network"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Framework",
+      "tools": [
+        {
+          "title": "FRAK",
+          "filename": "frameworks/DC20/FRAK.md",
+          "dc": "Defcon 20 via @ Car Hacking Village",
+          "presenters": [
+            {
+              "name": "Red Balloon Security",
+              "url": "https://redballoonsecurity.com/"
+            }
+          ],
+          "description": "FRAK(Ofrak/OpenFRAK) is a framework for unpacking, analyzing, modifying and repacking the firmware images of proprietary embedded devices. The FRAK framework provides a programmatic environment for the analysis of arbitrary embedded device firmware as well as an interactive environment for the disassembly, manipulation and re-assembly of such binary images.",
+          "image": "https://github.com/redballoonsecurity/ofrak/raw/master/docs/assets/ofrak_gui_1.png",
+          "source_url": "https://github.com/redballoonsecurity/ofrak/raw/master/docs/assets/ofrak_gui_1.png",
+          "talk_url": "https://youtu.be/U2Lr6Hf6gOY",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "framework",
+            "hacking"
+          ]
+        },
+        {
+          "title": "canTot",
+          "filename": "frameworks/DC30/canTot.md",
+          "dc": "Defcon 30 via @ Car Hacking Village",
+          "presenters": [
+            {
+              "name": "Jay Turla",
+              "url": "https://twitter.com/shipcod3/"
+            }
+          ],
+          "description": "canTot is a cli framework similar to the usage of known frameworks like Metasploit, dronesploit, expliot, and Recon-ng. The fun thing is that it contains fun hacks and known vulnerabilities disclosed. It can also be used as a guide for pentesting vehicles and learning python for Car Hacking the easier way. This is not to reinvent the wheel of known CAN fuzzers, car exploration tools like caring caribou, or other great CAN analyzers out there. But to combine all the known vulnerabilities and fun CAN bus hacks in automotive security.",
+          "image": "https://user-images.githubusercontent.com/30528167/194634620-8b84fe95-1be1-43f0-9766-db5bd8bc48ea.png",
+          "source_url": "https://github.com/shipcod3/canTot",
+          "talk_url": "https://youtu.be/LRBjGJEBs9I",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "framework",
+            "hacking"
+          ]
+        },
+        {
+          "title": "OPC UA - opcua exploit framework",
+          "filename": "frameworks/DC31/OPC-UA.md",
+          "dc": "Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "Claroty Research - Team82",
+              "url": "https://claroty.com/team82/"
+            }
+          ],
+          "description": "Exploiting OPC-UA in Every Possible Way: Practical Attacks Against Modern OPC-UA Architectures",
+          "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/2dc91f90-61d5-4343-88ef-503dbe50c73b",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/2dc91f90-61d5-4343-88ef-503dbe50c73b",
+          "talk_url": "https://youtu.be/de6kpQVvFL0",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "opc-ua",
+            "framework",
+            "exploit",
+            "exploitation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "tools": [
+        {
+          "title": "Hack to Basics – Adapting Exploit Frameworks to Evade Microsoft ATP",
+          "filename": "frameworks/DC27/Hack to Basics.md",
+          "dc": "Defcon 27",
+          "presenters": [
+            {
+              "name": "BC Security",
+              "url": "https://github.com/BC-SECURITY"
+            },
+            {
+              "name": "Anthony 'Cx01N' Rose",
+              "url": "https://github.com/Cx01N"
+            },
+            {
+              "name": "Jake 'Hubbl3' Krasnov",
+              "url": "https://github.com/Hubbl3"
+            },
+            {
+              "name": "Vincent 'Vinnybod' Rose",
+              "url": "https://github.com/vinnybod"
+            }
+          ],
+          "description": "Many pentesters are avoiding existing frameworks due to security improvements from Microsoft and smarter practices by network Admins. Red teams don’t have to throw away existing tools because their attacks are being thwarted and contrary to belief, Powershell is not dead. We updated existing tools and demonstrated that they can still be used to launch successful attacks. We would want to get back to the basics and demonstrate that successful attacks are still possible by modifying tools like Empire.",
+          "image": "",
+          "source_url": "https://github.com/BC-SECURITY",
+          "talk_url": "https://www.youtube.com/watch?v=WJgUJLmpKho",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "microsoft atp",
+            "frameworks",
+            "framework",
+            "exploit",
+            "network"
+          ]
+        },
+        {
+          "title": "Starkiller",
+          "filename": "frameworks/DC28/Starkiller.md",
+          "dc": "Defcon 28",
+          "presenters": [
+            {
+              "name": "BC Security",
+              "url": "https://github.com/BC-SECURITY"
+            },
+            {
+              "name": "Anthony 'Cx01N' Rose",
+              "url": "https://github.com/Cx01N"
+            },
+            {
+              "name": "Jake 'Hubbl3' Krasnov",
+              "url": "https://github.com/Hubbl3"
+            },
+            {
+              "name": "Vincent 'Vinnybod' Rose",
+              "url": "https://github.com/vinnybod"
+            }
+          ],
+          "description": "Starkiller is a frontend for the post-exploitation framework, PowerShell Empire, which incorporates a multi-user GUI application that interfaces with a remote Command and Control (C2) server.",
+          "image": "https://github.com/BC-SECURITY/Starkiller/raw/main/src/assets/icon.png",
+          "source_url": "https://github.com/BC-SECURITY",
+          "talk_url": "https://www.youtube.com/watch?v=rLWySkU0U1U",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "post-exploitation",
+            "frameworks",
+            "framework",
+            "rf",
+            "exploit",
+            "exploitation"
+          ]
+        },
+        {
+          "title": "Empire 4.0 and Beyond",
+          "filename": "frameworks/DC30/Empire.md",
+          "dc": "Defcon 30",
+          "presenters": [
+            {
+              "name": "BC Security",
+              "url": "https://github.com/BC-SECURITY"
+            },
+            {
+              "name": "Anthony 'Cx01N' Rose",
+              "url": "https://github.com/Cx01N"
+            },
+            {
+              "name": "Vincent 'Vinnybod' Rose",
+              "url": "https://github.com/vinnybod"
+            },
+            {
+              "name": "Jake 'Hubbl3' Krasnov",
+              "url": "https://github.com/Hubbl3"
+            }
+          ],
+          "description": "Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers.",
+          "image": "https://user-images.githubusercontent.com/20302208/70022749-1ad2b080-154a-11ea-9d8c-1b42632fd9f9.jpg",
+          "source_url": "https://github.com/BC-SECURITY",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "command and control",
+            "frameworks",
+            "c2",
+            "framework",
+            "exploit",
+            "exploitation"
+          ]
+        },
+        {
+          "title": "TeamFiltration",
+          "filename": "frameworks/DC30/TeamFiltration.md",
+          "dc": "Defcon 30 via @ TrustedSec",
+          "presenters": [
+            {
+              "name": "Melvin langvik",
+              "url": "https://twitter.com/Flangvik"
+            }
+          ],
+          "description": "TeamFiltration is a cross-platform framework for enumerating, spraying, exfiltrating, and backdooring O365 AAD accounts.",
+          "image": "https://pbs.twimg.com/media/FeaVEMiXgAwIdrQ?format=png",
+          "source_url": "https://github.com/Flangvik/TeamFiltration",
+          "talk_url": "https://www.youtube.com/watch?v=GpZTQHLKelg&feature=youtu.be",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "frameworks",
+            "backdoor",
+            "framework"
+          ]
+        },
+        {
+          "title": "Tool name",
+          "filename": "SampleSubmission/tool_name.md",
+          "dc": "Defcon 20",
+          "presenters": [
+            {
+              "name": "John Doe",
+              "url": "http://site.com"
+            },
+            {
+              "name": "Jane Doe",
+              "url": "http://site.com"
+            }
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscingelit, sed do eiusmod tempor incididunt ut laboreet dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi utaliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteursint occaecat cupidatat non proident, sunt inculpa qui officia deserunt mollit anim id estlaborum.",
+          "image": "https://image.jpg",
+          "source_url": "https://github.com/jdoe/MyTool",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "phishing",
+            "frameworks",
+            "framework"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hacking",
+      "tools": [
+        {
+          "title": "Jacob Baines - Do Not Trust the ASA, Trojans!",
+          "filename": "exploitation/DC30/cisco_asa_research.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Jacob Baines",
+              "url": "https://twitter.com/Junior_Baines"
+            }
+          ],
+          "description": "Cisco ASA Software and ASDM Security Research : Slides and code presented at BHUSA 2022 and DEF CON 30.",
+          "image": "https://pbs.twimg.com/media/FZQGkY9WYAMr77d?format=jpg&name=large",
+          "source_url": "https://github.com/jbaines-r7/cisco_asa_research",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploitation",
+            "bypass",
+            "hacking",
+            "exploit"
+          ]
+        },
+        {
+          "title": "RISC-V: Emoji Shellcoding 🙂",
+          "filename": "exploitation/DC30/emoji_shellcoding.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Georges-Axel Jaloyan",
+              "url": "https://twitter.com/GAJaloyan"
+            }
+          ],
+          "description": "Shellcodes are short executable stubs that are used in various attack scenarios, whenever code execution is possible. After quickly recalling what a shellcode is and why designing shellcodes under constraints is an art, we'll study a new constraint for which (to the best of our knowledge) no such shellcode was previously known: emoji shellcoding. We'll tackle this problem by introducing a new and more generic approach to shellcoding under constraints. Brace yourselves, you'll see some black magic weaponizing these cute little emojis 🥰 into merciless exploits 👿.",
+          "image": "https://video-images.vice.com/articles/62fa4a97f81113009460f860/lede/1660571450368-screen-shot-2022-08-15-at-95032-am.png?crop=0.9876543209876543xw:1xh;center,center&resize=1200:*",
+          "source_url": "https://github.com/RischardV/emoji-shellcoding",
+          "talk_url": "https://youtu.be/E8puAkalMRQ",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploitation",
+            "bypass",
+            "hacking",
+            "exploit"
+          ]
+        },
+        {
+          "title": "The PACMAN Attack: Breaking PAC on the Apple M1 with Hardware Attacks",
+          "filename": "exploitation/DC30/pacman.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Joseph Ravichandran, PhD student at MIT",
+              "url": "https://twitter.com/0xjprx/"
+            }
+          ],
+          "description": "What do you get when you cross pointer authentication with microarchitectural side channels?",
+          "image": "https://pacmanattack.com/assets/hat.dark.png",
+          "source_url": "https://github.com/jprx/DEFCON30-PACMAN",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploitation",
+            "hacking",
+            "exploit"
+          ]
+        },
+        {
+          "title": "Powerpwn: An offensive/defensive security toolset for Microsoft 365 Power Platform.",
+          "filename": "exploitation/DC30/powerpwn.md",
+          "dc": "DEF CON 30 and Black Hat USA 2023",
+          "presenters": [
+            {
+              "name": "Michael Bargury",
+              "url": ""
+            }
+          ],
+          "description": "Presenter: Michael Bargury",
+          "image": "https://github.com/mbrg/power-pwn/blob/main/wiki/powerpwn_asci_black.png",
+          "source_url": "https://github.com/mbrg/power-pwn/blob/main/wiki/powerpwn_asci_black.png",
+          "talk_url": "https://www.youtube.com/watch?v=e8PEIOa6W9M",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploitation",
+            "bypass",
+            "hacking",
+            "phishing",
+            "malware",
+            "exploit"
+          ]
+        },
+        {
+          "title": "FRAK",
+          "filename": "frameworks/DC20/FRAK.md",
+          "dc": "Defcon 20 via @ Car Hacking Village",
+          "presenters": [
+            {
+              "name": "Red Balloon Security",
+              "url": "https://redballoonsecurity.com/"
+            }
+          ],
+          "description": "FRAK(Ofrak/OpenFRAK) is a framework for unpacking, analyzing, modifying and repacking the firmware images of proprietary embedded devices. The FRAK framework provides a programmatic environment for the analysis of arbitrary embedded device firmware as well as an interactive environment for the disassembly, manipulation and re-assembly of such binary images.",
+          "image": "https://github.com/redballoonsecurity/ofrak/raw/master/docs/assets/ofrak_gui_1.png",
+          "source_url": "https://github.com/redballoonsecurity/ofrak/raw/master/docs/assets/ofrak_gui_1.png",
+          "talk_url": "https://youtu.be/U2Lr6Hf6gOY",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "framework",
+            "hacking"
+          ]
+        },
+        {
+          "title": "canTot",
+          "filename": "frameworks/DC30/canTot.md",
+          "dc": "Defcon 30 via @ Car Hacking Village",
+          "presenters": [
+            {
+              "name": "Jay Turla",
+              "url": "https://twitter.com/shipcod3/"
+            }
+          ],
+          "description": "canTot is a cli framework similar to the usage of known frameworks like Metasploit, dronesploit, expliot, and Recon-ng. The fun thing is that it contains fun hacks and known vulnerabilities disclosed. It can also be used as a guide for pentesting vehicles and learning python for Car Hacking the easier way. This is not to reinvent the wheel of known CAN fuzzers, car exploration tools like caring caribou, or other great CAN analyzers out there. But to combine all the known vulnerabilities and fun CAN bus hacks in automotive security.",
+          "image": "https://user-images.githubusercontent.com/30528167/194634620-8b84fe95-1be1-43f0-9766-db5bd8bc48ea.png",
+          "source_url": "https://github.com/shipcod3/canTot",
+          "talk_url": "https://youtu.be/LRBjGJEBs9I",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "framework",
+            "hacking"
+          ]
+        },
+        {
+          "title": "Please do not Duplicate: Attacking the Knox Box and Other Keyed Alike Systems",
+          "filename": "lock_picking/DC26/Gatekeyper.md",
+          "dc": "Defcon 26 - 2018",
+          "presenters": [
+            {
+              "name": "[m010ch_](#)",
+              "url": ""
+            }
+          ],
+          "description": "A collection of tools for generating models of physical keys for 3D printing",
+          "image": "https://user-images.githubusercontent.com/30528167/197508534-4fe4a909-e9d8-4b61-9e11-68669b8cf4e1.PNG",
+          "source_url": "https://github.com/100gamma/Gatekeyper",
+          "talk_url": "https://youtu.be/f4rPDF993qs",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "key_model_generator",
+            "hacking"
+          ]
+        },
+        {
+          "title": "Cesare Pizzi - Old Malware, New tools: Ghidra and Commodore 64, why understanding old malicious software still matters",
+          "filename": "malware_research/DC30/BULA-Virus.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Cesare Pizzi",
+              "url": "https://twitter.com/red5heep"
+            }
+          ],
+          "description": "A Commodore 64 Virus Analysis",
+          "image": "https://user-images.githubusercontent.com/30528167/197393552-3e7e62f1-1fde-46c2-8346-5554d193ed86.png",
+          "source_url": "https://github.com/cecio/",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "malware_research",
+            "virus",
+            "hacking",
+            "malware",
+            "rf"
+          ]
+        },
+        {
+          "title": "CANalyse",
+          "filename": "network_attacks/DC30/CANalyse.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Kartheek Lade",
+              "url": "https://github.com/KartheekLade"
+            },
+            {
+              "name": "Car Hacking Village",
+              "url": "https://www.carhackingvillage.com/"
+            }
+          ],
+          "description": "CANalyse is a tool built to analyze the log files to find out unique datasets automatically and able to connect to simple user interfaces such as Telegram. Basically, while using this tool the attacker can provide a bot-ID and use the tool over the internet through telegram-bot. CANalyse is made to be placed inside a raspberry-PI and able to exploit the vehicle through a telegram bot by recording and analysing the network traffic/data logs, like a hardware backdoor planted in a car.",
+          "image": "https://github.com/KartheekLade/CANalyse/raw/main/introduction.png",
+          "source_url": "https://github.com/KartheekLade",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "network tool",
+            "hacking",
+            "rf",
+            "exploit",
+            "network"
+          ]
+        },
+        {
+          "title": "SquarePhish",
+          "filename": "phishing/DC30/SquarePhish.md",
+          "dc": "Defcon 30 via @ Cloud Village",
+          "presenters": [
+            {
+              "name": "Secureworks",
+              "url": "https://www.secureworks.com/"
+            }
+          ],
+          "description": "SquarePhish is a phishing tool that combines QR Codes and OAuth 2.0 Device Code Flow for Advanced Phishing Attacks against Office 365.",
+          "image": "https://pbs.twimg.com/media/FeeIDDfXwAAMtHY?format=png",
+          "source_url": "https://github.com/secureworks/squarephish",
+          "talk_url": "https://youtu.be/rSukhTsJT70",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "phishing",
+            "hacking",
+            "oauth",
+            "qr"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Key Model Generator",
+      "tools": [
+        {
+          "title": "Please do not Duplicate: Attacking the Knox Box and Other Keyed Alike Systems",
+          "filename": "lock_picking/DC26/Gatekeyper.md",
+          "dc": "Defcon 26 - 2018",
+          "presenters": [
+            {
+              "name": "[m010ch_](#)",
+              "url": ""
+            }
+          ],
+          "description": "A collection of tools for generating models of physical keys for 3D printing",
+          "image": "https://user-images.githubusercontent.com/30528167/197508534-4fe4a909-e9d8-4b61-9e11-68669b8cf4e1.PNG",
+          "source_url": "https://github.com/100gamma/Gatekeyper",
+          "talk_url": "https://youtu.be/f4rPDF993qs",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "key_model_generator",
+            "hacking"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lockpicking",
+      "tools": [
+        {
+          "title": "Hacking Bluetooth Low Energy Locks",
+          "filename": "radio-frequency/DC24/Hacking_BLE_Locks.md",
+          "dc": "Defcon 24",
+          "presenters": [
+            {
+              "name": "BC Security",
+              "url": "https://github.com/BC-SECURITY"
+            },
+            {
+              "name": "Anthony 'Cx01N' Rose",
+              "url": "https://github.com/Cx01N"
+            },
+            {
+              "name": "Ben Ramsey",
+              "url": "https://github.com/ramsey"
+            }
+          ],
+          "description": "Open-source tools to crack vulnerable BLE locks. Many Bluetooth Low Energy (BLE) enabled deadbolts and padlocks have hit the market recently. These devices promise convenience and security through smartphone control. We investigated sixteen of these products from multiple vendors and discovered wireless vulnerabilities in most of them. Using a $50 antenna, we successfully picked vulnerable locks from over 400 meters away.",
+          "image": "",
+          "source_url": "https://github.com/BC-SECURITY",
+          "talk_url": "https://www.youtube.com/watch?v=KrOReHwjCKI",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "ble",
+            "lockpicking",
+            "hacking"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Malware Research",
+      "tools": [
+        {
+          "title": "Cesare Pizzi - Old Malware, New tools: Ghidra and Commodore 64, why understanding old malicious software still matters",
+          "filename": "malware_research/DC30/BULA-Virus.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Cesare Pizzi",
+              "url": "https://twitter.com/red5heep"
+            }
+          ],
+          "description": "A Commodore 64 Virus Analysis",
+          "image": "https://user-images.githubusercontent.com/30528167/197393552-3e7e62f1-1fde-46c2-8346-5554d193ed86.png",
+          "source_url": "https://github.com/cecio/",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "malware_research",
+            "virus",
+            "hacking",
+            "malware",
+            "rf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Microsoft Atp",
+      "tools": [
+        {
+          "title": "Hack to Basics – Adapting Exploit Frameworks to Evade Microsoft ATP",
+          "filename": "frameworks/DC27/Hack to Basics.md",
+          "dc": "Defcon 27",
+          "presenters": [
+            {
+              "name": "BC Security",
+              "url": "https://github.com/BC-SECURITY"
+            },
+            {
+              "name": "Anthony 'Cx01N' Rose",
+              "url": "https://github.com/Cx01N"
+            },
+            {
+              "name": "Jake 'Hubbl3' Krasnov",
+              "url": "https://github.com/Hubbl3"
+            },
+            {
+              "name": "Vincent 'Vinnybod' Rose",
+              "url": "https://github.com/vinnybod"
+            }
+          ],
+          "description": "Many pentesters are avoiding existing frameworks due to security improvements from Microsoft and smarter practices by network Admins. Red teams don’t have to throw away existing tools because their attacks are being thwarted and contrary to belief, Powershell is not dead. We updated existing tools and demonstrated that they can still be used to launch successful attacks. We would want to get back to the basics and demonstrate that successful attacks are still possible by modifying tools like Empire.",
+          "image": "",
+          "source_url": "https://github.com/BC-SECURITY",
+          "talk_url": "https://www.youtube.com/watch?v=WJgUJLmpKho",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "microsoft atp",
+            "frameworks",
+            "framework",
+            "exploit",
+            "network"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Network",
+      "tools": [
+        {
+          "title": "CrackMapExec",
+          "filename": "network_attacks/DC24/CrackMapExec.md",
+          "dc": "Defcon 24",
+          "presenters": [
+            {
+              "name": "Marcello 'byt3bl33d3r' Salvati",
+              "url": "https://github.com/byt3bl33d3r"
+            }
+          ],
+          "description": "Post-exploitation tool developed in Python and designed for penetration testing against networks; Collects Active Directory information to conduct lateral movement through targeted networks.",
+          "image": "https://cloud.githubusercontent.com/assets/5151193/17577511/d312ceb4-5f3b-11e6-8de5-8822246289fd.jpg",
+          "source_url": "https://github.com/byt3bl33d3r",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "network",
+            "pentesting",
+            "exploit",
+            "exploitation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Network Analysis",
+      "tools": [
+        {
+          "title": "CloudRecon",
+          "filename": "network_analysis/DC31/CloudRecon.md",
+          "dc": "Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "Jason Haddix",
+              "url": "https://twitter.com/Jhaddix"
+            },
+            {
+              "name": "Gunnar Andrews",
+              "url": "https://twitter.com/G0LDEN_infosec"
+            }
+          ],
+          "description": "CloudRecon is a suite of tools for red teamers and bug hunters to find ephemeral and development assets in their campaigns and hunts.",
+          "image": "https://pbs.twimg.com/media/F3B-xpYaEAI3Tp7?format=jpg&name=small",
+          "source_url": "https://github.com/g0ldencybersec/CloudRecon",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "network analysis",
+            "network"
+          ]
+        },
+        {
+          "title": "CloudRecon",
+          "filename": "radio-frequency/DC31/802.11 WIFI/CloudRecon.md",
+          "dc": "Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "Jason Haddix",
+              "url": "https://twitter.com/Jhaddix"
+            },
+            {
+              "name": "Gunnar Andrews",
+              "url": "https://twitter.com/G0LDEN_infosec"
+            }
+          ],
+          "description": "CloudRecon is a suite of tools for red teamers and bug hunters to find ephemeral and development assets in their campaigns and hunts.",
+          "image": "https://pbs.twimg.com/media/F3B-xpYaEAI3Tp7?format=jpg&name=small",
+          "source_url": "https://github.com/g0ldencybersec/CloudRecon",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "network analysis",
+            "network"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Network Tool",
+      "tools": [
+        {
+          "title": "CANalyse",
+          "filename": "network_attacks/DC30/CANalyse.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Kartheek Lade",
+              "url": "https://github.com/KartheekLade"
+            },
+            {
+              "name": "Car Hacking Village",
+              "url": "https://www.carhackingvillage.com/"
+            }
+          ],
+          "description": "CANalyse is a tool built to analyze the log files to find out unique datasets automatically and able to connect to simple user interfaces such as Telegram. Basically, while using this tool the attacker can provide a bot-ID and use the tool over the internet through telegram-bot. CANalyse is made to be placed inside a raspberry-PI and able to exploit the vehicle through a telegram bot by recording and analysing the network traffic/data logs, like a hardware backdoor planted in a car.",
+          "image": "https://github.com/KartheekLade/CANalyse/raw/main/introduction.png",
+          "source_url": "https://github.com/KartheekLade",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "network tool",
+            "hacking",
+            "rf",
+            "exploit",
+            "network"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Networking",
+      "tools": [
+        {
+          "title": "rfparty Tool",
+          "filename": "network_analysis/DC31/rfparty-xyz.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "rekcahdam",
+              "url": "https://www.rekcahdam.com/"
+            },
+            {
+              "name": "nullagent",
+              "url": "https://www.nullagent.com/"
+            }
+          ],
+          "description": "Today, Millions of IoT devices emit wireless BLE advertisements.",
+          "image": "https://pbs.twimg.com/media/F5LN8l3WoAASFps?format=jpg&name=small",
+          "source_url": "https://github.com/datapartyjs/rfparty-xyz",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "networking",
+            "security",
+            "rf",
+            "network"
+          ]
+        },
+        {
+          "title": "rfparty Tool",
+          "filename": "radio-frequency/DC31/802.11 WIFI/rfparty-xyz.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "rekcahdam",
+              "url": "https://www.rekcahdam.com/"
+            },
+            {
+              "name": "nullagent",
+              "url": "https://www.nullagent.com/"
+            }
+          ],
+          "description": "Today, Millions of IoT devices emit wireless BLE advertisements.",
+          "image": "https://pbs.twimg.com/media/F5LN8l3WoAASFps?format=jpg&name=small",
+          "source_url": "https://github.com/datapartyjs/rfparty-xyz",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "networking",
+            "security",
+            "rf",
+            "network"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Obfuscator Tool",
+      "tools": [
+        {
+          "title": "RelocBonus",
+          "filename": "exploitation/DC26/RelocBonus.md",
+          "dc": "Defcon 26 - (Y.2018)",
+          "presenters": [
+            {
+              "name": "Nick Cano",
+              "url": "https://twitter.com/nickcano93"
+            }
+          ],
+          "description": "RelocBonus is an obfuscation tool for Windows which instruments the Windows Loader into acting as an unpacking engine.",
+          "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/a918eb66-6deb-43d0-aa8b-91995d3f7640",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/a918eb66-6deb-43d0-aa8b-91995d3f7640",
+          "talk_url": "https://youtu.be/SseZ_t9DToo",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "obfuscator tool",
+            "windows",
+            "hacking"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opc-Ua",
+      "tools": [
+        {
+          "title": "OPC UA - opcua exploit framework",
+          "filename": "frameworks/DC31/OPC-UA.md",
+          "dc": "Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "Claroty Research - Team82",
+              "url": "https://claroty.com/team82/"
+            }
+          ],
+          "description": "Exploiting OPC-UA in Every Possible Way: Practical Attacks Against Modern OPC-UA Architectures",
+          "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/2dc91f90-61d5-4343-88ef-503dbe50c73b",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/2dc91f90-61d5-4343-88ef-503dbe50c73b",
+          "talk_url": "https://youtu.be/de6kpQVvFL0",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "opc-ua",
+            "framework",
+            "exploit",
+            "exploitation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "P2P",
+      "tools": [
+        {
+          "title": "Veilid",
+          "filename": "P2P/DC31/Veilid.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "Christien 'DilDog' Rioux",
+              "url": "https://gitlab.com/crioux"
+            }
+          ],
+          "description": "Veilid is an open-source, peer-to-peer, mobile-first networked application framework, with a flagship secure messaging application named VeilidChat. Veilid is conceptually similar to IPFS + Tor, but faster and designed from the ground-up to provide all services over a privately routed network. The network also enables development of distributed applications without a 'blockchain' or a 'transactional layer' at their base. Veilid can be included as part of user-facing applications or run as a standalone server for power users who wish to help build the network.",
+          "image": "https://veilid.com/img/Veilid.svg",
+          "source_url": "",
+          "talk_url": "https://youtu.be/Kb1lKscAMDQ?si=IiHnrCcjSodpEZbO",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "p2p",
+            "file sharing",
+            "social media",
+            "framework",
+            "network"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pentesting",
+      "tools": [
+        {
+          "title": "CrackMapExec",
+          "filename": "network_attacks/DC24/CrackMapExec.md",
+          "dc": "Defcon 24",
+          "presenters": [
+            {
+              "name": "Marcello 'byt3bl33d3r' Salvati",
+              "url": "https://github.com/byt3bl33d3r"
+            }
+          ],
+          "description": "Post-exploitation tool developed in Python and designed for penetration testing against networks; Collects Active Directory information to conduct lateral movement through targeted networks.",
+          "image": "https://cloud.githubusercontent.com/assets/5151193/17577511/d312ceb4-5f3b-11e6-8de5-8822246289fd.jpg",
+          "source_url": "https://github.com/byt3bl33d3r",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "network",
+            "pentesting",
+            "exploit",
+            "exploitation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Phishing",
+      "tools": [
+        {
+          "title": "Powerpwn: An offensive/defensive security toolset for Microsoft 365 Power Platform.",
+          "filename": "exploitation/DC30/powerpwn.md",
+          "dc": "DEF CON 30 and Black Hat USA 2023",
+          "presenters": [
+            {
+              "name": "Michael Bargury",
+              "url": ""
+            }
+          ],
+          "description": "Presenter: Michael Bargury",
+          "image": "https://github.com/mbrg/power-pwn/blob/main/wiki/powerpwn_asci_black.png",
+          "source_url": "https://github.com/mbrg/power-pwn/blob/main/wiki/powerpwn_asci_black.png",
+          "talk_url": "https://www.youtube.com/watch?v=e8PEIOa6W9M",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploitation",
+            "bypass",
+            "hacking",
+            "phishing",
+            "malware",
+            "exploit"
+          ]
+        },
+        {
+          "title": "SquarePhish",
+          "filename": "phishing/DC30/SquarePhish.md",
+          "dc": "Defcon 30 via @ Cloud Village",
+          "presenters": [
+            {
+              "name": "Secureworks",
+              "url": "https://www.secureworks.com/"
+            }
+          ],
+          "description": "SquarePhish is a phishing tool that combines QR Codes and OAuth 2.0 Device Code Flow for Advanced Phishing Attacks against Office 365.",
+          "image": "https://pbs.twimg.com/media/FeeIDDfXwAAMtHY?format=png",
+          "source_url": "https://github.com/secureworks/squarephish",
+          "talk_url": "https://youtu.be/rSukhTsJT70",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "phishing",
+            "hacking",
+            "oauth",
+            "qr"
+          ]
+        },
+        {
+          "title": "Tool name",
+          "filename": "SampleSubmission/tool_name.md",
+          "dc": "Defcon 20",
+          "presenters": [
+            {
+              "name": "John Doe",
+              "url": "http://site.com"
+            },
+            {
+              "name": "Jane Doe",
+              "url": "http://site.com"
+            }
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscingelit, sed do eiusmod tempor incididunt ut laboreet dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi utaliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteursint occaecat cupidatat non proident, sunt inculpa qui officia deserunt mollit anim id estlaborum.",
+          "image": "https://image.jpg",
+          "source_url": "https://github.com/jdoe/MyTool",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "phishing",
+            "frameworks",
+            "framework"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Post-Exploitation",
+      "tools": [
+        {
+          "title": "Starkiller",
+          "filename": "frameworks/DC28/Starkiller.md",
+          "dc": "Defcon 28",
+          "presenters": [
+            {
+              "name": "BC Security",
+              "url": "https://github.com/BC-SECURITY"
+            },
+            {
+              "name": "Anthony 'Cx01N' Rose",
+              "url": "https://github.com/Cx01N"
+            },
+            {
+              "name": "Jake 'Hubbl3' Krasnov",
+              "url": "https://github.com/Hubbl3"
+            },
+            {
+              "name": "Vincent 'Vinnybod' Rose",
+              "url": "https://github.com/vinnybod"
+            }
+          ],
+          "description": "Starkiller is a frontend for the post-exploitation framework, PowerShell Empire, which incorporates a multi-user GUI application that interfaces with a remote Command and Control (C2) server.",
+          "image": "https://github.com/BC-SECURITY/Starkiller/raw/main/src/assets/icon.png",
+          "source_url": "https://github.com/BC-SECURITY",
+          "talk_url": "https://www.youtube.com/watch?v=rLWySkU0U1U",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "post-exploitation",
+            "frameworks",
+            "framework",
+            "rf",
+            "exploit",
+            "exploitation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Root",
+      "tools": [
+        {
+          "title": "Defcon Arsenal Tools (DArT)",
+          "filename": "README.md",
+          "dc": "",
+          "presenters": [],
+          "description": "Welcome to Defcon Arsenal Tools (DArT) repository, which aims to provide a comprehensive collection of tools and resources for security professionals and enthusiasts attending the DEFCON conference. In this README, you will find information on how to contribute to the project and help make it better.",
+          "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/ccd2ac91-2557-436a-80d6-6ce280c9f05b",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools",
+          "talk_url": "https://www.youtube.com/user/DEFCONConference/playlists",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "phishing",
+            "framework",
+            "malware",
+            "exploit",
+            "exploitation",
+            "network"
+          ]
+        },
+        {
+          "title": "toolsAdded",
+          "filename": "toolsAdded.md",
+          "dc": "",
+          "presenters": [],
+          "description": "ctrl + F => Easily check if a tool you intend to add has been already added / or for the purpose of information update on a particular tool.",
+          "image": "",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/blob/main/exploitation/DC30/EDRSandBlast.md",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "phishing",
+            "framework",
+            "malware",
+            "rf",
+            "exploit",
+            "exploitation",
+            "hacking",
+            "network"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Security",
+      "tools": [
+        {
+          "title": "rfparty Tool",
+          "filename": "network_analysis/DC31/rfparty-xyz.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "rekcahdam",
+              "url": "https://www.rekcahdam.com/"
+            },
+            {
+              "name": "nullagent",
+              "url": "https://www.nullagent.com/"
+            }
+          ],
+          "description": "Today, Millions of IoT devices emit wireless BLE advertisements.",
+          "image": "https://pbs.twimg.com/media/F5LN8l3WoAASFps?format=jpg&name=small",
+          "source_url": "https://github.com/datapartyjs/rfparty-xyz",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "networking",
+            "security",
+            "rf",
+            "network"
+          ]
+        },
+        {
+          "title": "rfparty Tool",
+          "filename": "radio-frequency/DC31/802.11 WIFI/rfparty-xyz.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "rekcahdam",
+              "url": "https://www.rekcahdam.com/"
+            },
+            {
+              "name": "nullagent",
+              "url": "https://www.nullagent.com/"
+            }
+          ],
+          "description": "Today, Millions of IoT devices emit wireless BLE advertisements.",
+          "image": "https://pbs.twimg.com/media/F5LN8l3WoAASFps?format=jpg&name=small",
+          "source_url": "https://github.com/datapartyjs/rfparty-xyz",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "networking",
+            "security",
+            "rf",
+            "network"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Social Media",
+      "tools": [
+        {
+          "title": "Veilid",
+          "filename": "P2P/DC31/Veilid.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "Christien 'DilDog' Rioux",
+              "url": "https://gitlab.com/crioux"
+            }
+          ],
+          "description": "Veilid is an open-source, peer-to-peer, mobile-first networked application framework, with a flagship secure messaging application named VeilidChat. Veilid is conceptually similar to IPFS + Tor, but faster and designed from the ground-up to provide all services over a privately routed network. The network also enables development of distributed applications without a 'blockchain' or a 'transactional layer' at their base. Veilid can be included as part of user-facing applications or run as a standalone server for power users who wish to help build the network.",
+          "image": "https://veilid.com/img/Veilid.svg",
+          "source_url": "",
+          "talk_url": "https://youtu.be/Kb1lKscAMDQ?si=IiHnrCcjSodpEZbO",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "p2p",
+            "file sharing",
+            "social media",
+            "framework",
+            "network"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spoofing",
+      "tools": [
+        {
+          "title": "ApplwJuice",
+          "filename": "radio-frequency/DC31/BT-BLE/AppleJuice.md",
+          "dc": "Defcon 31 via @ Apple iPhone feat. Flipper Zero",
+          "presenters": [
+            {
+              "name": "ECTO-1A",
+              "url": "https://github.com/ECTO-1A"
+            },
+            {
+              "name": "WillyJL",
+              "url": "https://github.com/Willy-JL/Willy-JL"
+            }
+          ],
+          "description": "These scripts are an experimental PoC that uses Bluetooth Low Energy (BLE) to send proximity pairing messages to Apple devices.",
+          "image": "",
+          "source_url": "https://github.com/ECTO-1A",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "apple",
+            "spoofing",
+            "ble"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Terraform",
+      "tools": [
+        {
+          "title": "AzureGoat : A Damn Vulnerable Azure Infrastructure",
+          "filename": "Cloud/DC30/AzureGoat.md",
+          "dc": "Defcon 30 - (Y.2022)",
+          "presenters": [
+            {
+              "name": "INE",
+              "url": "https://ine.com/"
+            }
+          ],
+          "description": "AzureGoat is a vulnerable by design infrastructure on Azure featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration based on services such as App Functions, CosmosDB, Storage Accounts, Automation and Identities. AzureGoat mimics real-world infrastructure but with added vulnerabilities. It features multiple escalation paths and is focused on a black-box approach.",
+          "image": "https://user-images.githubusercontent.com/25884689/183740998-da6f7ae7-2df0-4557-a6f5-2f0040ebe0dc.png",
+          "source_url": "https://github.com/ine-labs/AzureGoat",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "azure",
+            "cloud",
+            "vulnerable",
+            "terraform"
+          ]
+        },
+        {
+          "title": "BrokenbyDesign - Vulnerable Azure Enivornment",
+          "filename": "Cloud/DC30/brokenbydesign-azure.md",
+          "dc": "Defcon 30 - (Y.2022)",
+          "presenters": [
+            {
+              "name": "Secura",
+              "url": "https://www.secura.net/"
+            }
+          ],
+          "description": "A broken-by-design Azure environment to practice and train security skills in the cloud domain.",
+          "image": "https://user-images.githubusercontent.com/14212955/180998359-a17af967-84bc-4541-af75-06a1ea4e5927.png",
+          "source_url": "https://github.com/SecuraBV/brokenbydesign-azure",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "azure",
+            "cloud",
+            "vulnerable",
+            "terraform",
+            "exploit",
+            "hacking"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Uncategorized",
+      "tools": [
+        {
+          "title": "FuncoPop",
+          "filename": "Cloud/DC31/FuncoPop.md",
+          "dc": "Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "Thomas Elling",
+              "url": "https://twitter.com/thomas_elling"
+            },
+            {
+              "name": "Karl Fosaaen",
+              "url": "https://twitter.com/kfosaaen"
+            }
+          ],
+          "description": "Category/Tags: Microsoft, Exploitation, Azure, Cloud Tools",
+          "image": "https://notpayloads.blob.core.windows.net/images/FuncoPop-bg-final.png",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/c1a162b4-bc22-47fb-93d6-f77666b9c144",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploit",
+            "exploitation"
+          ]
+        },
+        {
+          "title": "Git Wild Hunt",
+          "filename": "credential_scanning/DC29/git-wild-hunt.md",
+          "dc": "Defcon 29 - (Y.2021)",
+          "presenters": [
+            {
+              "name": "José Hernandez",
+              "url": "https://twitter.com/d1vious"
+            },
+            {
+              "name": "Rod Soto(d1vious)",
+              "url": "https://twitter.com/rodsoto"
+            }
+          ],
+          "description": "Category/Tags: Offense, Vulnerability Assessment, Credential Scanning",
+          "image": "https://github.com/josehelps/git-wild-hunt/raw/master/static/wildhunt.jpg",
+          "source_url": "https://github.com/josehelps/git-wild-hunt/raw/master/static/wildhunt.jpg",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "oauth",
+            "qr"
+          ]
+        },
+        {
+          "title": "AceLdr",
+          "filename": "Evasion/DC30/AceLdr.md",
+          "dc": "Defcon 30 - (Y.2022)",
+          "presenters": [
+            {
+              "name": "Kyle Avery",
+              "url": "https://twitter.com/kyleavery_"
+            }
+          ],
+          "description": "Category/Tags: Anti-detection/Evasion, Loader, Cobalt Strike",
+          "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/a964c956-f0ba-40f3-90ba-6fd7ead094ae",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/a964c956-f0ba-40f3-90ba-6fd7ead094ae",
+          "talk_url": "https://youtu.be/edIMUcxCueA",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "malware",
+            "exploit",
+            "exploitation"
+          ]
+        },
+        {
+          "title": "ContainYourself",
+          "filename": "exploitation/DC31/ContainYourself.md",
+          "dc": "Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "Daniel Avinoam",
+              "url": "https://twitter.com/daniel_avinoam"
+            }
+          ],
+          "description": "Category/Tags: Privilege Escalation, Windows Exploitation, security",
+          "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/d32b808b-30ec-483b-80c1-abaec8dc57c4",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/d32b808b-30ec-483b-80c1-abaec8dc57c4",
+          "talk_url": "https://youtu.be/Cm-zFx6hwzk",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "framework",
+            "rf",
+            "exploit",
+            "exploitation"
+          ]
+        },
+        {
+          "title": "guestlist",
+          "filename": "exploitation/DC31/guestlist.md",
+          "dc": "Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "nyxgeek",
+              "url": "https://twitter.com/nyxgeek"
+            }
+          ],
+          "description": "Category/Tags: enumuration, Microsoft, Exploitation",
+          "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/c553bfeb-b062-4e45-8368-852cd3ac4299",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/c553bfeb-b062-4e45-8368-852cd3ac4299",
+          "talk_url": "https://www.youtube.com/watch?v=4AY5uS3yFjE",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploit",
+            "exploitation"
+          ]
+        },
+        {
+          "title": "NoFilter",
+          "filename": "exploitation/DC31/NoFilter.md",
+          "dc": "Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "Ron Ben Yizhak",
+              "url": "https://twitter.com/RonB_Y"
+            }
+          ],
+          "description": "Category/Tags: Privilege Escalation, Windows Exploitation, security",
+          "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/1e80cdd2-131e-4c92-ab19-e03f02fb0d24",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/1e80cdd2-131e-4c92-ab19-e03f02fb0d24",
+          "talk_url": "https://youtu.be/73z3-j9uGis",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "malware",
+            "exploit",
+            "exploitation"
+          ]
+        },
+        {
+          "title": "SpamChannel",
+          "filename": "exploitation/DC31/SpamChannel.md",
+          "dc": "Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "Marcello \"byt3bl33d3r\" Salvati",
+              "url": "https://www.linkedin.com/in/byt3bl33d3r/"
+            }
+          ],
+          "description": "Category/Tags: Exploitation, Spoofing",
+          "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/8760e095-ae5b-4380-b668-1c033878ae43",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/8760e095-ae5b-4380-b668-1c033878ae43",
+          "talk_url": "https://youtu.be/NwnT15q_PS8",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "malware",
+            "exploit",
+            "exploitation"
+          ]
+        },
+        {
+          "title": "windows-dll-env-hijacking",
+          "filename": "frameworks/DC30/HijackLibs.md",
+          "dc": "Defcon 30 - (Y.2022)",
+          "presenters": [
+            {
+              "name": "Wietze Beukema",
+              "url": "https://twitter.com/wietze"
+            }
+          ],
+          "description": "Category/Tags: DLL hijacking, reverse exploitation, Windows, Microsoft",
+          "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/c7a7c6ff-4b80-49f4-8753-9d9bc0e6cbd7",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/c7a7c6ff-4b80-49f4-8753-9d9bc0e6cbd7",
+          "talk_url": "https://www.youtube.com/watch?v=LxjnI5h_kls",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "malware",
+            "exploit",
+            "exploitation"
+          ]
+        },
+        {
+          "title": "Akto",
+          "filename": "frameworks/DC31/akto.md",
+          "dc": "Appsec Village at Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "Akto Team",
+              "url": "https://twitter.com/Aktodotio"
+            },
+            {
+              "name": "Ankush Jain",
+              "url": "https://twitter.com/Ankush12389"
+            },
+            {
+              "name": "Ankita Gupta",
+              "url": "https://twitter.com/ankitaiitr"
+            }
+          ],
+          "description": "Category/Tags: Api security, frameworks, API testing, Appsec",
+          "image": "https://pbs.twimg.com/media/F3winTNWsAA6NI5?format=jpg",
+          "source_url": "https://github.com/akto-api-security/akto",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "framework",
+            "rf"
+          ]
+        },
+        {
+          "title": "EasyEASM",
+          "filename": "frameworks/DC31/EasyEASM.md",
+          "dc": "Recon Village at Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "Jason Haddix",
+              "url": "https://twitter.com/Jhaddix"
+            }
+          ],
+          "description": "Category/Tags: Frameworks",
+          "image": "https://pbs.twimg.com/media/F3W5ATTXYAA_jHi?format=jpg&name=small",
+          "source_url": "https://github.com/g0ldencybersec/EasyEASM",
+          "talk_url": "https://youtu.be/hx0dBo-zKE8",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "framework",
+            "rf",
+            "network"
+          ]
+        },
+        {
+          "title": "EMBA - Open-Source Firmware Security Testing",
+          "filename": "hardening/DC30/EMBA.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "[Michael Messner](#), [Pascal Eckmann](#)",
+              "url": ""
+            }
+          ],
+          "description": "Category/Tags: Exploitation, bypass, hacking",
+          "image": "https://raw.githubusercontent.com/wiki/e-m-b-a/emba/images/youtube-emba.png",
+          "source_url": "https://github.com/e-m-b-a/emba",
+          "talk_url": "https://raw.githubusercontent.com/wiki/e-m-b-a/emba/images/youtube-emba.png",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploit",
+            "exploitation",
+            "hacking"
+          ]
+        },
+        {
+          "title": "Shiva JIT micropatching engine",
+          "filename": "hardening/DC31/shiva.md",
+          "dc": "Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "ElfMaster",
+              "url": "https://twitter.com/ryan_elfmaster"
+            }
+          ],
+          "description": "Category/Tags: Hardening tools, C, reverse engeneering, Binary",
+          "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/8450a89f-f05a-49f0-ba16-fa6e77fc6d2a",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/8450a89f-f05a-49f0-ba16-fa6e77fc6d2a",
+          "talk_url": "https://www.youtube.com/watch?v=TDMWejaucdg",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploit",
+            "exploitation",
+            "hacking"
+          ]
+        },
+        {
+          "title": "Katalina",
+          "filename": "malware_research/DC31/Katalina.md",
+          "dc": "Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "Gabi Hookgab",
+              "url": "https://twitter.com/hookgab"
+            }
+          ],
+          "description": "Category/Tags: Malware research, Obfuscation, Reverse Engeneering",
+          "image": "https://user-images.githubusercontent.com/3353285/259824263-5eb16e8e-44c4-4e3f-9cc4-2ed6a7b847ac.png",
+          "source_url": "https://github.com/huuck/Katalina",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "malware"
+          ]
+        },
+        {
+          "title": "WINE Pairing with Malware",
+          "filename": "malware_research/DC31/Wine_Pairing_with_Malware.md",
+          "dc": "Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "Jared Stroud",
+              "url": "https://twitter.com/DLL_Cool_J"
+            }
+          ],
+          "description": "Category/Tags: Malware research",
+          "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/5dec261d-6220-4340-8be3-68c176e422dd",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/5dec261d-6220-4340-8be3-68c176e422dd",
+          "talk_url": "https://youtu.be/s_YqtMhTr4k",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "malware",
+            "hacking"
+          ]
+        },
+        {
+          "title": "asyauth",
+          "filename": "network_attacks/DC31/asyauth.md",
+          "dc": "Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "Tamas Jos",
+              "url": "https://twitter.com/SkelSec"
+            }
+          ],
+          "description": "Category/Tags: Network Attacks, Exploitation",
+          "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/082adc76-da86-40bd-b5d5-6d3987531edc",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/082adc76-da86-40bd-b5d5-6d3987531edc",
+          "talk_url": "https://youtu.be/7oAZK8x_mL0",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploit",
+            "exploitation",
+            "network"
+          ]
+        },
+        {
+          "title": "ezviz_lan_rce",
+          "filename": "network_attacks/DC31/ezviz_lan_rce.md",
+          "dc": "DEF CON Hacking Village at Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "Octavio Gianatiempo",
+              "url": "https://twitter.com/ogianatiempo"
+            },
+            {
+              "name": "Javier Aguinaga",
+              "url": "https://twitter.com/pastaCLS"
+            }
+          ],
+          "description": "Category/Tags: Network Attacks",
+          "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/4d6d34ff-3d16-472b-b0fc-f1e13b52b99e",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/4d6d34ff-3d16-472b-b0fc-f1e13b52b99e",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "exploit",
+            "exploitation",
+            "hacking",
+            "network"
+          ]
+        },
+        {
+          "title": "Ensemble",
+          "filename": "uncategorized/DC31/Ensemble.md",
+          "dc": "Defcon 31 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "Anthony 'DotNetRussell' Rusell",
+              "url": "https://twitter.com/DotNetRussell"
+            }
+          ],
+          "description": "Category/Tags: Bug Bounty, Scanner",
+          "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/da877686-de2f-4f2b-9731-50602f5eb5c3",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/da877686-de2f-4f2b-9731-50602f5eb5c3",
+          "talk_url": "https://youtu.be/Bo77s0f1XNc",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "rf",
+            "hacking"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Virus",
+      "tools": [
+        {
+          "title": "Cesare Pizzi - Old Malware, New tools: Ghidra and Commodore 64, why understanding old malicious software still matters",
+          "filename": "malware_research/DC30/BULA-Virus.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Cesare Pizzi",
+              "url": "https://twitter.com/red5heep"
+            }
+          ],
+          "description": "A Commodore 64 Virus Analysis",
+          "image": "https://user-images.githubusercontent.com/30528167/197393552-3e7e62f1-1fde-46c2-8346-5554d193ed86.png",
+          "source_url": "https://github.com/cecio/",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "malware_research",
+            "virus",
+            "hacking",
+            "malware",
+            "rf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Voip",
+      "tools": [
+        {
+          "title": "VoIPShark: Open Source VoIP Analysis Platform",
+          "filename": "network_analysis/DCChina1/VoIPShark.md",
+          "dc": "Defcon China 1 - (Y.2019)",
+          "presenters": [
+            {
+              "name": "Pentester Academy",
+              "url": "https://www.pentesteracademy.com/"
+            }
+          ],
+          "description": "VoIPShark is a open source VoIP Analysis Platform which will allow people to analyze live or stored VoIP traffic.",
+          "image": "https://user-images.githubusercontent.com/25884689/58698021-04963d00-83cd-11e9-8962-54a3b36a12b2.png",
+          "source_url": "https://github.com/pentesteracademy/voipshark",
+          "talk_url": "https://www.youtube.com/watch?v=34dTuvBmdMk",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "voip"
+          ]
+        },
+        {
+          "title": "Zfone: Secure VoIP Phone Software",
+          "filename": "Telephony/DC15/zphone.md",
+          "dc": "Defcon 15 - (Y.2007)",
+          "presenters": [
+            {
+              "name": "[Philip R. Zimmermann](#)",
+              "url": ""
+            }
+          ],
+          "description": "Zfone is a secure VoIP phone software product which lets you make secure encrypted phone calls over the Internet. It lets you whisper in someone's ear from a thousand miles away.",
+          "image": "http://zfoneproject.com/images/Zfone-GUI/Mac-animated-Secure.gif",
+          "source_url": "",
+          "talk_url": "https://www.youtube.com/watch?v=-kinDrJPp9c",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "voip"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vulnerable",
+      "tools": [
+        {
+          "title": "AzureGoat : A Damn Vulnerable Azure Infrastructure",
+          "filename": "Cloud/DC30/AzureGoat.md",
+          "dc": "Defcon 30 - (Y.2022)",
+          "presenters": [
+            {
+              "name": "INE",
+              "url": "https://ine.com/"
+            }
+          ],
+          "description": "AzureGoat is a vulnerable by design infrastructure on Azure featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration based on services such as App Functions, CosmosDB, Storage Accounts, Automation and Identities. AzureGoat mimics real-world infrastructure but with added vulnerabilities. It features multiple escalation paths and is focused on a black-box approach.",
+          "image": "https://user-images.githubusercontent.com/25884689/183740998-da6f7ae7-2df0-4557-a6f5-2f0040ebe0dc.png",
+          "source_url": "https://github.com/ine-labs/AzureGoat",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "azure",
+            "cloud",
+            "vulnerable",
+            "terraform"
+          ]
+        },
+        {
+          "title": "BrokenbyDesign - Vulnerable Azure Enivornment",
+          "filename": "Cloud/DC30/brokenbydesign-azure.md",
+          "dc": "Defcon 30 - (Y.2022)",
+          "presenters": [
+            {
+              "name": "Secura",
+              "url": "https://www.secura.net/"
+            }
+          ],
+          "description": "A broken-by-design Azure environment to practice and train security skills in the cloud domain.",
+          "image": "https://user-images.githubusercontent.com/14212955/180998359-a17af967-84bc-4541-af75-06a1ea4e5927.png",
+          "source_url": "https://github.com/SecuraBV/brokenbydesign-azure",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "azure",
+            "cloud",
+            "vulnerable",
+            "terraform",
+            "exploit",
+            "hacking"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wardriving",
+      "tools": [
+        {
+          "title": "RPi4_WigleBottle_v2 Tool",
+          "filename": "radio-frequency/DC31/wardriving/RPi4_WigleBottle_v2.md",
+          "dc": "Defcon 31 via @ Radio Frequency Village",
+          "presenters": [
+            {
+              "name": "Bryan Kobe",
+              "url": "https://github.com/bkobe"
+            }
+          ],
+          "description": "A Raspberry Pi 4 Wigle Bottle USB 2 breakout board that increases the spacing of the traditional Raspberry Pi 4 USB 2 ports which do not support USB 3 on the ports that do -- for reasons. Primary design of the board is for an WiGLE collector using USB dongles as data sources (WiFi, Bluetooth, GPS) in a portable form factor. Boards are shared on OSH Park and can be ordered here in sets of three: https://oshpark.com/shared_projects/4ibeuOBA.",
+          "image": "https://pbs.twimg.com/media/Fvo2tlzWwAQbwJ1?format=jpg&name=large",
+          "source_url": "https://github.com/bkobe",
+          "talk_url": "https://www.youtube.com/@RFHackersSanctuary/videos",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "wardriving",
+            "wigle",
+            "rf"
+          ]
+        },
+        {
+          "title": "The_Wifydra",
+          "filename": "radio-frequency/DC31/wardriving/The_Wifydra.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "lozaning",
+              "url": "https://github.com/lozaning"
+            }
+          ],
+          "description": "The Wifydra is open source hardware and software used to locate wireless access points for wardriving. The project is a continuation of the work done previously by Mike Spicer (d4rkm4tter) and his WiFi Cactus and Kraken. Designed to be a low power and low cost modular way of simultaneously monitoring all 2.4Ghz WiFi channels for AP beacons. By utilizing strictly off the shelf embedded components, the Wifydra is able to keep costs extremely low (~$90) and its footprint extremely small (250 square cm). More importantly, minimal power consumption is maintained, requiring only a USB C battery capable of putting out 10 watts. The Wifydra is modular in nature and supports a multitude of GNSS (Global Navigation Satellite System) options for location tagging. The ESP32-C5 for 5Ghz channel monitoring will also be supported once the hardware becomes available. The version of The Wifydra demoed consists of 14 ESP8266 called sub nodes, an additional ESP32 called the dom node, SD card holder, GNSS ",
+          "image": "https://user-images.githubusercontent.com/13127833/257694403-40c7db88-5f30-40e3-a340-c568a6b9d1a1.png",
+          "source_url": "https://github.com/lozaning",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "wardriving",
+            "wigle",
+            "esp32",
+            "embedded"
+          ]
+        },
+        {
+          "title": "Wigle_Balloon",
+          "filename": "radio-frequency/DC31/wardriving/Wigle_Balloon.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "lozaning",
+              "url": "https://github.com/lozaning"
+            }
+          ],
+          "description": "I am a balloon that surfs the jet streams in search of wifi in space!",
+          "image": "https://pbs.twimg.com/profile_images/1552098838588137472/cA95Vxvm_400x400.jpg",
+          "source_url": "https://github.com/lozaning",
+          "talk_url": "https://www.youtube.com/watch?v=kF5BnM2OUMs",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "wardriving",
+            "wigle",
+            "balloon",
+            "rf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wifi",
+      "tools": [
+        {
+          "title": "WIFISHARK",
+          "filename": "radio-frequency/DC31/802.11 WIFI/WIFISHARK.md",
+          "dc": "Defcon 31 @ Radio Frequency Village",
+          "presenters": [
+            {
+              "name": "Wasabi",
+              "url": "https://github.com/thewasabiguy"
+            }
+          ],
+          "description": "WIFIShark Profile",
+          "image": "",
+          "source_url": "https://github.com/thewasabiguy",
+          "talk_url": "https://www.youtube.com/watch?v=fLyK4CIkygI",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "wifi",
+            "wireshark",
+            "802.11",
+            "rf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wigle",
+      "tools": [
+        {
+          "title": "RPi4_WigleBottle_v2 Tool",
+          "filename": "radio-frequency/DC31/wardriving/RPi4_WigleBottle_v2.md",
+          "dc": "Defcon 31 via @ Radio Frequency Village",
+          "presenters": [
+            {
+              "name": "Bryan Kobe",
+              "url": "https://github.com/bkobe"
+            }
+          ],
+          "description": "A Raspberry Pi 4 Wigle Bottle USB 2 breakout board that increases the spacing of the traditional Raspberry Pi 4 USB 2 ports which do not support USB 3 on the ports that do -- for reasons. Primary design of the board is for an WiGLE collector using USB dongles as data sources (WiFi, Bluetooth, GPS) in a portable form factor. Boards are shared on OSH Park and can be ordered here in sets of three: https://oshpark.com/shared_projects/4ibeuOBA.",
+          "image": "https://pbs.twimg.com/media/Fvo2tlzWwAQbwJ1?format=jpg&name=large",
+          "source_url": "https://github.com/bkobe",
+          "talk_url": "https://www.youtube.com/@RFHackersSanctuary/videos",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "wardriving",
+            "wigle",
+            "rf"
+          ]
+        },
+        {
+          "title": "The_Wifydra",
+          "filename": "radio-frequency/DC31/wardriving/The_Wifydra.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "lozaning",
+              "url": "https://github.com/lozaning"
+            }
+          ],
+          "description": "The Wifydra is open source hardware and software used to locate wireless access points for wardriving. The project is a continuation of the work done previously by Mike Spicer (d4rkm4tter) and his WiFi Cactus and Kraken. Designed to be a low power and low cost modular way of simultaneously monitoring all 2.4Ghz WiFi channels for AP beacons. By utilizing strictly off the shelf embedded components, the Wifydra is able to keep costs extremely low (~$90) and its footprint extremely small (250 square cm). More importantly, minimal power consumption is maintained, requiring only a USB C battery capable of putting out 10 watts. The Wifydra is modular in nature and supports a multitude of GNSS (Global Navigation Satellite System) options for location tagging. The ESP32-C5 for 5Ghz channel monitoring will also be supported once the hardware becomes available. The version of The Wifydra demoed consists of 14 ESP8266 called sub nodes, an additional ESP32 called the dom node, SD card holder, GNSS ",
+          "image": "https://user-images.githubusercontent.com/13127833/257694403-40c7db88-5f30-40e3-a340-c568a6b9d1a1.png",
+          "source_url": "https://github.com/lozaning",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "wardriving",
+            "wigle",
+            "esp32",
+            "embedded"
+          ]
+        },
+        {
+          "title": "Wigle_Balloon",
+          "filename": "radio-frequency/DC31/wardriving/Wigle_Balloon.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "lozaning",
+              "url": "https://github.com/lozaning"
+            }
+          ],
+          "description": "I am a balloon that surfs the jet streams in search of wifi in space!",
+          "image": "https://pbs.twimg.com/profile_images/1552098838588137472/cA95Vxvm_400x400.jpg",
+          "source_url": "https://github.com/lozaning",
+          "talk_url": "https://www.youtube.com/watch?v=kF5BnM2OUMs",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "wardriving",
+            "wigle",
+            "balloon",
+            "rf"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Windows",
+      "tools": [
+        {
+          "title": "RelocBonus",
+          "filename": "exploitation/DC26/RelocBonus.md",
+          "dc": "Defcon 26 - (Y.2018)",
+          "presenters": [
+            {
+              "name": "Nick Cano",
+              "url": "https://twitter.com/nickcano93"
+            }
+          ],
+          "description": "RelocBonus is an obfuscation tool for Windows which instruments the Windows Loader into acting as an unpacking engine.",
+          "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/a918eb66-6deb-43d0-aa8b-91995d3f7640",
+          "source_url": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/a918eb66-6deb-43d0-aa8b-91995d3f7640",
+          "talk_url": "https://youtu.be/SseZ_t9DToo",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "obfuscator tool",
+            "windows",
+            "hacking"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wireshark",
+      "tools": [
+        {
+          "title": "WIFISHARK",
+          "filename": "radio-frequency/DC31/802.11 WIFI/WIFISHARK.md",
+          "dc": "Defcon 31 @ Radio Frequency Village",
+          "presenters": [
+            {
+              "name": "Wasabi",
+              "url": "https://github.com/thewasabiguy"
+            }
+          ],
+          "description": "WIFIShark Profile",
+          "image": "",
+          "source_url": "https://github.com/thewasabiguy",
+          "talk_url": "https://www.youtube.com/watch?v=fLyK4CIkygI",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "wifi",
+            "wireshark",
+            "802.11",
+            "rf"
+          ]
+        }
+      ]
+    }
+  ]
+}
