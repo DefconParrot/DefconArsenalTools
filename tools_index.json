@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-08-22T13:21:31.990053+00:00",
-  "repo": "C:\\Users\\hyi\\Downloads\\DefconArsenalTools",
-  "tool_count": 56,
+  "generated_at": "2025-08-22T16:43:53.078395+00:00",
+  "repo": "https://github.com/DefconParrot/DefconArsenalTools",
+  "tool_count": 57,
   "categories": [
     {
       "name": "802.11",
@@ -888,6 +888,32 @@
       "name": "Frameworks",
       "tools": [
         {
+          "title": "Tool name",
+          "filename": "sample_tool_submit.md",
+          "dc": "Defcon 20",
+          "presenters": [
+            {
+              "name": "John Doe",
+              "url": "http://site.com"
+            },
+            {
+              "name": "Jane Doe",
+              "url": "http://site.com"
+            }
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscingelit, sed do eiusmod tempor incididunt ut laboreet dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi utaliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteursint occaecat cupidatat non proident, sunt inculpa qui officia deserunt mollit anim id estlaborum.",
+          "image": "https://image.jpg",
+          "source_url": "https://github.com/jdoe/MyTool",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "phishing",
+            "frameworks",
+            "framework"
+          ]
+        },
+        {
           "title": "Hack to Basics – Adapting Exploit Frameworks to Evade Microsoft ATP",
           "filename": "frameworks/DC27/Hack to Basics.md",
           "dc": "Defcon 27",
@@ -1016,32 +1042,6 @@
           "tags": [
             "frameworks",
             "backdoor",
-            "framework"
-          ]
-        },
-        {
-          "title": "Tool name",
-          "filename": "SampleSubmission/tool_name.md",
-          "dc": "Defcon 20",
-          "presenters": [
-            {
-              "name": "John Doe",
-              "url": "http://site.com"
-            },
-            {
-              "name": "Jane Doe",
-              "url": "http://site.com"
-            }
-          ],
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscingelit, sed do eiusmod tempor incididunt ut laboreet dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi utaliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteursint occaecat cupidatat non proident, sunt inculpa qui officia deserunt mollit anim id estlaborum.",
-          "image": "https://image.jpg",
-          "source_url": "https://github.com/jdoe/MyTool",
-          "talk_url": "",
-          "license": "",
-          "legal_status": "dual-use",
-          "tags": [
-            "phishing",
-            "frameworks",
             "framework"
           ]
         }
@@ -1345,6 +1345,33 @@
       ]
     },
     {
+      "name": "Malware Development",
+      "tools": [
+        {
+          "title": "AceLdr - Avoid Memory Scanners",
+          "filename": "malware_research/DC30/AceLdr.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Kyle Avery",
+              "url": "https://github.com/kyleavery"
+            }
+          ],
+          "description": "AceLdr is a reflective loader for executing unmanaged code in memory without touching disk. It is designed for red teamers and security researchers who need to understand execution techniques, in-memory payload delivery, and evasion methods.",
+          "image": "https://github.com/kyleavery/AceLdr/raw/main/demo.gif",
+          "source_url": "https://github.com/kyleavery",
+          "talk_url": "https://www.youtube.com/watch?v=edIMUcxCueA",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "malware development",
+            "offensive security",
+            "malware"
+          ]
+        }
+      ]
+    },
+    {
       "name": "Malware Research",
       "tools": [
         {
@@ -1617,6 +1644,33 @@
       ]
     },
     {
+      "name": "Offensive Security",
+      "tools": [
+        {
+          "title": "AceLdr - Avoid Memory Scanners",
+          "filename": "malware_research/DC30/AceLdr.md",
+          "dc": "DEF CON 30",
+          "presenters": [
+            {
+              "name": "Kyle Avery",
+              "url": "https://github.com/kyleavery"
+            }
+          ],
+          "description": "AceLdr is a reflective loader for executing unmanaged code in memory without touching disk. It is designed for red teamers and security researchers who need to understand execution techniques, in-memory payload delivery, and evasion methods.",
+          "image": "https://github.com/kyleavery/AceLdr/raw/main/demo.gif",
+          "source_url": "https://github.com/kyleavery",
+          "talk_url": "https://www.youtube.com/watch?v=edIMUcxCueA",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "malware development",
+            "offensive security",
+            "malware"
+          ]
+        }
+      ]
+    },
+    {
       "name": "Opc-Ua",
       "tools": [
         {
@@ -1705,6 +1759,32 @@
       "name": "Phishing",
       "tools": [
         {
+          "title": "Tool name",
+          "filename": "sample_tool_submit.md",
+          "dc": "Defcon 20",
+          "presenters": [
+            {
+              "name": "John Doe",
+              "url": "http://site.com"
+            },
+            {
+              "name": "Jane Doe",
+              "url": "http://site.com"
+            }
+          ],
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscingelit, sed do eiusmod tempor incididunt ut laboreet dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi utaliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteursint occaecat cupidatat non proident, sunt inculpa qui officia deserunt mollit anim id estlaborum.",
+          "image": "https://image.jpg",
+          "source_url": "https://github.com/jdoe/MyTool",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "phishing",
+            "frameworks",
+            "framework"
+          ]
+        },
+        {
           "title": "Powerpwn: An offensive/defensive security toolset for Microsoft 365 Power Platform.",
           "filename": "exploitation/DC30/powerpwn.md",
           "dc": "DEF CON 30 and Black Hat USA 2023",
@@ -1750,32 +1830,6 @@
             "hacking",
             "oauth",
             "qr"
-          ]
-        },
-        {
-          "title": "Tool name",
-          "filename": "SampleSubmission/tool_name.md",
-          "dc": "Defcon 20",
-          "presenters": [
-            {
-              "name": "John Doe",
-              "url": "http://site.com"
-            },
-            {
-              "name": "Jane Doe",
-              "url": "http://site.com"
-            }
-          ],
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscingelit, sed do eiusmod tempor incididunt ut laboreet dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi utaliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteursint occaecat cupidatat non proident, sunt inculpa qui officia deserunt mollit anim id estlaborum.",
-          "image": "https://image.jpg",
-          "source_url": "https://github.com/jdoe/MyTool",
-          "talk_url": "",
-          "license": "",
-          "legal_status": "dual-use",
-          "tags": [
-            "phishing",
-            "frameworks",
-            "framework"
           ]
         }
       ]
