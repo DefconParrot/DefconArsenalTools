@@ -1,6 +1,8 @@
-#  Akto
+# Akto
 
-Category/Tags: Api security, frameworks, API testing, Appsec
+Category: Frameworks
+
+Tags: Api security, frameworks, API testing, Appsec
 
 Tool Presented at: Appsec Village at Defcon 31 - (Y.2023)
 
@@ -8,7 +10,7 @@ Author/presenter: [Akto Team](https://twitter.com/Aktodotio) - [Ankush Jain](htt
 
 ## Tool Description
 
-**Title** :  DEF CON Appsec Village - Open Source API Security For DevSecOps
+**Title** : DEF CON Appsec Village - Open Source API Security For DevSecOps
 
 ![Akto Team](https://pbs.twimg.com/media/F3winTNWsAA6NI5?format=jpg)
 
@@ -18,18 +20,16 @@ Akto is an instant, open source API security platform that takes only 60 secs to
 
 - Link to Tool⚙️ => https://github.com/akto-api-security/akto
 
-- Link to slide✍️ => *pending*
+- Link to slide✍️ => _pending_
 
-- Link to Talk(presentation)📺 => *pending*
+- Link to Talk(presentation)📺 => _pending_
 
 - Link to blog🧾 => https://www.akto.io/blog/akto-presentation-at-defcon-2023-in-las-vegas , https://www.akto.io/blog/akto-as-an-api-security-automation-case-study
 
-
 ## Author Description
 
-- *Ankita Gupta* CEO & Co-founder of Aktodotio.
-- *Ankush Jain* CTO & Co-founder at Akto
-
+- _Ankita Gupta_ CEO & Co-founder of Aktodotio.
+- _Ankush Jain_ CTO & Co-founder at Akto
 
 ## Author's Social Links:
 

@@ -1,6 +1,8 @@
-#  Shiva JIT micropatching engine
+# Shiva JIT micropatching engine
 
-Category/Tags: Hardening tools, C, reverse engeneering, Binary
+Category: hardening
+
+Tags: Hardening tools, C, reverse engeneering, Binary
 
 Tool Presented at: Defcon 31 - (Y.2023)
 
@@ -28,12 +30,10 @@ Shiva is a next-level solution that allows developers to quickly write patches i
 
 - Writing🧾 => https://bitlackeys.org/projects/shiva_runtime.pdf
 
-
 ## Author Description
 
-- *Ryan “ElfMaster” O’Neill* is the founder and CTO of [Arcana Technologies](https://arcana-technologies.io) & [Arcana Research](https://arcana-research.io).
-- He has been in the security scene since about 1997 and is well known for authoring the famous book title "Learning Linux binary analysis" and for publishing many papers and technologies in the realm of binary protection, memory forensics, exploitation, security mitigations, virus design, kernel hacking and reverse engineering techniques. *Ryan* has also been published in many of the classic journals such as Phrack, POC||GTFO, tmp.0ut and vxheaven. Much of Ryan's independent research has been published over the years on https://www.bitlackeys.org, and has many public technologies available on https://github.com/elfmaster, and he has just released a new ELF binary patching system "[Shiva](https://github.com/advanced-microcode-patching/shiva)" for Linux to solve the worlds hardest challenges in binary patching today. 
-
+- _Ryan “ElfMaster” O’Neill_ is the founder and CTO of [Arcana Technologies](https://arcana-technologies.io) & [Arcana Research](https://arcana-research.io).
+- He has been in the security scene since about 1997 and is well known for authoring the famous book title "Learning Linux binary analysis" and for publishing many papers and technologies in the realm of binary protection, memory forensics, exploitation, security mitigations, virus design, kernel hacking and reverse engineering techniques. _Ryan_ has also been published in many of the classic journals such as Phrack, POC||GTFO, tmp.0ut and vxheaven. Much of Ryan's independent research has been published over the years on https://www.bitlackeys.org, and has many public technologies available on https://github.com/elfmaster, and he has just released a new ELF binary patching system "[Shiva](https://github.com/advanced-microcode-patching/shiva)" for Linux to solve the worlds hardest challenges in binary patching today.
 
 ## Author's Social Links:
 

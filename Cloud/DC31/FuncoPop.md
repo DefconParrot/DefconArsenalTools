@@ -1,6 +1,8 @@
-#  FuncoPop
+# FuncoPop
 
-Category/Tags: Microsoft, Exploitation, Azure, Cloud Tools
+Category: Microsoft
+
+Tags: Microsoft, Exploitation, Azure, Cloud Tools
 
 Tool Presented at: Defcon 31 - (Y.2023)
 
@@ -8,7 +10,7 @@ Author/presenter: [Thomas Elling](https://twitter.com/thomas_elling) & [Karl Fos
 
 ## Tool Description
 
-**Title** :  DEF CON Cloud Village - What the Function: A Deep Dive into Azure Function App Security
+**Title** : DEF CON Cloud Village - What the Function: A Deep Dive into Azure Function App Security
 
 ![FuncoPopLogo](https://notpayloads.blob.core.windows.net/images/FuncoPop-bg-final.png)
 
@@ -20,14 +22,13 @@ FuncoPop includes functions and scripts that support attacking Azure Funtion App
 
 - Link to slide✍️ => https://github.com/NetSPI/FuncoPop/blob/main/WhatTheFunction-DC31_CV.pdf
 
-- Link to Talk(presentation)📺 => *pending*
+- Link to Talk(presentation)📺 => _pending_
 
 - Link to blog🧾 => N/A
 
-
 ## Author Description
 
-- At the time of talk presentation, both *Karl Fosaaen* & *Thomas Elling* work at [NETSPI](https://www.netspi.com/) as cloud researchers.
+- At the time of talk presentation, both _Karl Fosaaen_ & _Thomas Elling_ work at [NETSPI](https://www.netspi.com/) as cloud researchers.
 
 ![FuncoPop_WhatTheFunction-DC31_CV pdf at main · NetSPI_FuncoPop](https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/c1a162b4-bc22-47fb-93d6-f77666b9c144)
 

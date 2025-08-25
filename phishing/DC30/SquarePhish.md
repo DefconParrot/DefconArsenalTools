@@ -1,6 +1,8 @@
 # SquarePhish
 
-Category: Phishing, Hacking
+Category: Phishing
+
+Tags: Phishing, Hacking
 
 Tool Presented at: Defcon 30 via @ Cloud Village
 

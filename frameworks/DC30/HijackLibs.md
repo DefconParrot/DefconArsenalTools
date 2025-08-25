@@ -1,6 +1,8 @@
-#  windows-dll-env-hijacking
+# windows-dll-env-hijacking
 
-Category/Tags: DLL hijacking, reverse exploitation, Windows, Microsoft
+Category: Frameworks
+
+Tags: DLL hijacking, reverse exploitation, Windows, Microsoft
 
 Tool Presented at: Defcon 30 - (Y.2022)
 
@@ -8,12 +10,11 @@ Author/presenter: [Wietze Beukema](https://twitter.com/wietze)
 
 ## Tool Description
 
-**Title** :  Wietze Beukema - Save Environment Variable - Hijacking Legit Apps w Minimal Footprint
+**Title** : Wietze Beukema - Save Environment Variable - Hijacking Legit Apps w Minimal Footprint
 
 ![DEF CON 30 - Kyle Avery - Avoiding Memory Scanners - Customizing Malware to Evade YARA PE-sieve](https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/c7a7c6ff-4b80-49f4-8753-9d9bc0e6cbd7)
 
 Project for identifying executables and DLLs vulnerable to environment-variable based DLL hijacking.
-
 
 ## Reference Links:
 
@@ -27,12 +28,10 @@ Project for identifying executables and DLLs vulnerable to environment-variable 
 
 - Link to blog🧾 => https://wietze.github.io/blog/save-the-environment-variables
 
-
 ## Author Description
 
-- *Wietze Beukema* works in Cyber Threat Detection & Response.
-- Tech enthusiast, security fanatic with an interest in politics and society 
-
+- _Wietze Beukema_ works in Cyber Threat Detection & Response.
+- Tech enthusiast, security fanatic with an interest in politics and society
 
 ## Author's Social Links:
 

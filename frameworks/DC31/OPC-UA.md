@@ -1,6 +1,8 @@
-#  OPC UA - opcua exploit framework
+# OPC UA - opcua exploit framework
 
-Category: OPC-UA, framework
+Category: frameworks
+
+Tags: OPC-UA, framework
 
 Tool Presented at: Defcon 31 - (Y.2023)
 
@@ -16,9 +18,8 @@ Advanced OPC-UA framework for vulnerability research & exploitation of modern OP
 
 Using this framework, we've implemented many unique attacks against OPC-UA implementation - all of which we, or other researchers, responsibly disclosed. So far, using OPC-UA Exploitation Framework we found & disclosed ~50 CVEs.
 
-
-
 ## Reference Links:
+
 - Link to Tool⚙️ => https://github.com/claroty/opcua-exploit-framework
 
 - Link to slide✍️ => https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/Sharon%20Brizinov%20Noam%20Moshe%20-%20Exploiting%20OPC-UA%20in%20Every%20Possible%20Way%20Practical%20Attacks%20Against%20Modern%20OPC-UA%20Architectures.pdf
@@ -29,9 +30,8 @@ Using this framework, we've implemented many unique attacks against OPC-UA imple
 
 ## Author Description (Team82 researchers)
 
-- *Sharon Brizinov* Vulnerability researcher - CTFs, Pwn2Own, DEFCON blackbadge, mostly breaking PLCs.
-- *Noam Moshe* Vulnerability researcher - Pwn2Own, mostly breaking IoT clouds.
-
+- _Sharon Brizinov_ Vulnerability researcher - CTFs, Pwn2Own, DEFCON blackbadge, mostly breaking PLCs.
+- _Noam Moshe_ Vulnerability researcher - Pwn2Own, mostly breaking IoT clouds.
 
 ## Author's Social Links:
 

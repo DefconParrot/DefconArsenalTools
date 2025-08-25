@@ -1,6 +1,8 @@
-#  BrokenbyDesign - Vulnerable Azure Enivornment
+# BrokenbyDesign - Vulnerable Azure Enivornment
 
-Category: azure, cloud, vulnerable, terraform
+Category: azure
+
+Tags: azure, cloud, vulnerable, terraform
 
 Tool Presented at: Defcon 30 - (Y.2022)
 
@@ -8,13 +10,14 @@ Author/presenter: [Roy Stultiens](#), [Siebren Kraak](#) @ ([Secura](https://www
 
 ## Tool Description
 
- A broken-by-design Azure environment to practice and train security skills in the cloud domain. 
+A broken-by-design Azure environment to practice and train security skills in the cloud domain.
 
- ![DEF CON 30 - BrokenbyDesign - Vulnerable Azure Enivornment - Roy Stultiens, Siebren Kraak](https://user-images.githubusercontent.com/14212955/180998359-a17af967-84bc-4541-af75-06a1ea4e5927.png)
+![DEF CON 30 - BrokenbyDesign - Vulnerable Azure Enivornment - Roy Stultiens, Siebren Kraak](https://user-images.githubusercontent.com/14212955/180998359-a17af967-84bc-4541-af75-06a1ea4e5927.png)
 
- A vulnerable Azure architecture that is online 24/7. The environment provides several flags that can be found by exploiting Azure vulnerabilities.
+A vulnerable Azure architecture that is online 24/7. The environment provides several flags that can be found by exploiting Azure vulnerabilities.
 
- ## Reference Links:
+## Reference Links:
+
 - Link to Tool⚙️ => https://brokenazure.cloud/
 
 - Link to slide✍️ => N/A
@@ -26,8 +29,9 @@ Author/presenter: [Roy Stultiens](#), [Siebren Kraak](#) @ ([Secura](https://www
 - Link to Source Code => [BrokenbyDesign-azure](https://github.com/SecuraBV/brokenbydesign-azure)
 
 ## Author Descriptions (Secura Researchers)
-- *Roy Stultiens* - Security Expert
-- *Siebren Kraak* - Security Intern
+
+- _Roy Stultiens_ - Security Expert
+- _Siebren Kraak_ - Security Intern
 
 ## Author's Social Links:
 

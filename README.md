@@ -1,232 +1,127 @@
 # Defcon Arsenal Tools (DArT)
 
-Welcome to Defcon Arsenal Tools ([DArT](https://github.com/DefconParrot/DefconArsenalTools)) repository, which aims to provide a comprehensive collection of tools and resources for security professionals and enthusiasts attending the DEFCON conference. In this README, you will find information on how to contribute to the project and help make it better.
+Welcome to Defcon Arsenal Tools ([DArT](https://github.com/DefconParrot/DefconArsenalTools)) repository, which aims to provide a comprehensive collection of tools and resources for security professionals and enthusiasts attending the DEFCON conference.
 
-<a href="https://github.com/DefconParrot/DefconArsenalTools" _target="blank">
-  <img src="https://img.shields.io/badge/Defcon_Arsenal_Tools-DArTs-yellow?style=plastic"/>
+> **Disclaimer**: This project is intended for educational purposes only. The authors and contributors are not responsible for misuse. Always ensure proper authorization and adhere to applicable laws.
+
+<a href="https://github.com/DefconParrot/DefconArsenalTools">
+  <img src="https://img.shields.io/github/last-commit/DefconParrot/DefconArsenalTools/main?style=plastic"/>
 </a>
-<a href="https://github.com/DefconParrot/DefconArsenalTools" _target="blank"><img src="https://img.shields.io/github/last-commit/DefconParrot/DefconArsenalTools/main?style=plastic">
-</a> <a href="https://img.shields.io/twitter/follow/DCArsenalTools" _target="blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/DCArsenalTools">
-</a> <a href="https://img.shields.io/mastodon/follow/111013782497791351?domain=https%3A%2F%2Fdefcon.social&style=plastic" _target="blank"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/111013782497791351?domain=https%3A%2F%2Fdefcon.social&style=plastic&labelColor=%235B4BE1&color=%23000622">
+<a href="https://img.shields.io/twitter/follow/DCArsenalTools">
+  <img alt="Follow on X" src="https://img.shields.io/twitter/follow/DCArsenalTools"/>
+</a>
+<a href="https://img.shields.io/mastodon/follow/111013782497791351?domain=https%3A%2F%2Fdefcon.social&style=plastic&labelColor=%235B4BE1&color=%23000622">
+  <img alt="Follow on Mastodon" src="https://img.shields.io/mastodon/follow/111013782497791351?domain=https%3A%2F%2Fdefcon.social"/>
 </a>
 
 ![DEFCON Arsenal Tools](https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/ccd2ac91-2557-436a-80d6-6ce280c9f05b)
 
-Current Update: <b><i>DC1 - DC31</i></b>
-Repo aims to improve this DC page -> [Tools](https://defcon.org/html/links/dc-tools.html)
+Current Update: **_DC1 - DC31_**  
+Repo aims to improve this DC page → [Tools](https://defcon.org/html/links/dc-tools.html)
 
 ---
 
+<details>
+<summary><b>Table of Contents</b></summary>
+
+- [About](#about)
+- [Current Tools](#current-tools)
+- [Tool Sources](#tool-sources)
+- [Contribution](#contribution)
+- [Contact](#contact)
+- [License](#license)
+
+</details>
+
 ---
-
-<a name="top"></a>
-
-> ## Table of Contents</h2></b>
->
-> - [About](#About)
-> - [Tools recorded](#current-tools)
-> - [Tool Sources](#tool-sources)
-> - [General Contribution](#general-contribution)
-> - [Conclusion](#conclusion)
-> - [Contact Us](#contact-us-twitter)
-> - [License](#license)
 
 ## About
 
-Defcon Arsenal Tools ([DArT](https://github.com/DefconParrot/DefconArsenalTools)) is a curated collection of security tools, scripts, and resources that are useful for various tasks such as network scanning, vulnerability assessment, exploit development, and more. It is designed to assist security professionals and researchers in their day-to-day work and to promote knowledge sharing within the DEFCON community.
+Defcon Arsenal Tools ([DArT](https://github.com/DefconParrot/DefconArsenalTools)) is a curated collection of security tools, scripts, and resources that are useful for tasks such as network scanning, vulnerability assessment, exploit development, and more. It is designed to assist security professionals and researchers in their day-to-day work and to promote knowledge sharing within the DEFCON community.
 
 ---
 
 ## Current Tools
 
-| Folder Category                                                                              | About                                                                      |
-| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [SampleSubmission](https://github.com/DefconParrot/DefconArsenalTools/tree/main/SampleSubmission)         | - Folder containing sample tool `tool.md` inside a demo category named `SampleSubmission`                          |
-| [Credential_Scanning](https://github.com/DefconParrot/DefconArsenalTools/tree/main/credential_scanning)     | - Folder containing tools for user credential scannings                    |
-| [CTF](https://github.com/DefconParrot/DefconArsenalTools/tree/main/CTF)                                   | - Folder containing CTF tools                                              |
-| [Evasion](https://github.com/DefconParrot/DefconArsenalTools/tree/main/Evasion)                                   | - Folder containing anti-detection/evasion arsenal tools.           |
-| [Exploitation](https://github.com/DefconParrot/DefconArsenalTools/tree/main/exploitation)                 | - Folder containing exploitation tools                                     |
-| [Frameworks](https://github.com/DefconParrot/DefconArsenalTools/tree/main/frameworks)                     | - Folder containing frameworks presented at Defcon (DC)                    |
-| [Hardening](https://github.com/DefconParrot/DefconArsenalTools/tree/main/hardening)                       | - Folder with all hardening tools as seen in Defcon                        |
-| [Lock_Picking](https://github.com/DefconParrot/DefconArsenalTools/tree/main/lock_picking)                 | - Folder containing lock picking materials presented at Defcon             |
-| [Malware_Research](https://github.com/DefconParrot/DefconArsenalTools/tree/main/malware_research)         | - Folder containing malware researches whose demo were presented at Defcon |
-| [Network_Attacks](https://github.com/DefconParrot/DefconArsenalTools/tree/main/network_attacks)           | - Folder containing network attack tools presented at Defcon Conference    |
-| [P2P](https://github.com/DefconParrot/DefconArsenalTools/tree/main/P2P)           | - Folder containing Peerto Peer security tools presented at Defcon Conference    |
-| [Phishing](https://github.com/DefconParrot/DefconArsenalTools/tree/main/phishing)                         | - Folder containing tools categorized as of phishing nature                |
-| [Radio-Frequency](https://github.com/DefconParrot/DefconArsenalTools/tree/main/radio-frequency)           | - Folder containing radio frequency arsenal tools presented at Defcon Conference    |
-| [Reverse_Exploitation](https://github.com/DefconParrot/DefconArsenalTools/tree/main/reverse_exploitation) | - Folder containing reverse exploitation tools presented at Defcon         |
-| [uncategorized](https://github.com/DefconParrot/DefconArsenalTools/tree/main/reverse_exploitation) | - Defcon tools that are yet to be categorized         |
+| Folder Category                                | About                          |
+| ---------------------------------------------- | ------------------------------ |
+| [Credential_Scanning](./credential_scanning)   | Tools for credential scanning. |
+| [CTF](./CTF)                                   | Capture The Flag tools.        |
+| [Evasion](./Evasion)                           | Anti-detection/evasion tools.  |
+| [Exploitation](./exploitation)                 | Exploitation tools.            |
+| [Frameworks](./frameworks)                     | Security frameworks.           |
+| [Hardening](./hardening)                       | Hardening tools.               |
+| [Lock_Picking](./lock_picking)                 | Lock picking resources.        |
+| [Malware_Research](./malware_research)         | Malware research tools.        |
+| [Network_Attacks](./network_attacks)           | Network attack tools.          |
+| [P2P](./P2P)                                   | Peer-to-peer tools.            |
+| ...                                            | ...                            |
+| [Phishing](./phishing)                         | Phishing-related tools.        |
+| [Radio-Frequency](./radio-frequency)           | RF tools.                      |
+| [Reverse_Exploitation](./reverse_exploitation) | Reverse exploitation tools.    |
+| [uncategorized_tools](./uncategorized_tools)   | Tools not yet categorized.     |
 
-<b>Disclaimer</b>: This project is intended for educational and informational purposes only. The authors and contributors are not responsible for any misuse or illegal activities conducted with the tools and resources provided in this repository. Always ensure that you have proper authorization and adhere to applicable laws and regulations while using these tools.
-
-### Tree Structure For the Arsenal Tools
+<details>
+<summary><b>Project Structure (click to expand)</b></summary>
 
 ```markdown
-
 📁 DefconArsenalTools/
-│
 ├── 📁 Malware/
-│   ├── 🏴‍☠️ DC30/
-│   │   ├── 🛠️ Tool1.md
-│   │   ├── 🛠️ Tool2.md
-│   │   └── ...
-│   │
-│   ├── 🏴‍☠️ DC31/
-│   │   ├── 🛠️ Tool1.md
-│   │   ├── 🛠️ Tool2.md
-│   │   └── ...
-│   │
-│   └── ...
-│
+│ ├── 🏴‍☠️ DC30/
+│ ├── 🏴‍☠️ DC31/
+│ └── ...
 ├── 📁 Hardening/
-│   ├── 🏴‍☠️ DC30/
-│   │   ├── 🛠️ Tool1.md
-│   │   ├── 🛠️ Tool2.md
-│   │   └── ...
-│   │
-│   ├── 🏴‍☠️ DC31/
-│   │   ├── 🗃️ Subcategory/
-│   │   │   ├── 🛠️ Tool1.md
-│   │   │   ├── 🛠️ Tool2.md
-│   │   │   └── ...
-│   │   │
-│   │   ├── 🛠️ Tool2.md/
-│   │   └── ...
-│   │
-│   └── ...
-│
+│ ├── 🏴‍☠️ DC30/
+│ ├── 🏴‍☠️ DC31/
+│ └── ...
 ├── 📁 Exploitation/
-│   ├── 🏴‍☠️ DC30/
-│   │   ├── 🛠️ Tool1.md
-│   │   ├── 🛠️ Tool2.md
-│   │   └── ...
-│   │
-│   ├── 🏴‍☠️ DC31/
-│   │   ├── 🛠️ Tool1.md
-│   │   ├── 🛠️ Tool2.md
-│   │   └── ...
-│   │
-│   └── ...
-│
-|
+│ ├── 🏴‍☠️ DC30/
+│ ├── 🏴‍☠️ DC31/
+│ └── ...
 ├── 📖 README.md
-│
+├── 🏴‍☠️ sample_tool_submit.md
+├── 🛠️ tools_index.json
 └── 🛠️ toolsAdded.md
-
 ```
+
+</details>
+
+> 💡 **Tip:** The file [`tools_index.json`](./tools_index.json) contains an upto date structured index dataset of all the current tools added into this project.
 
 ## Tool Sources
 
-Feel free to contribute on matters documentation and or enhancing this project to be easily accessible by others either by creating issues or submitting pull requests and referencing a raised issue(s).
-
-Tools Reference: => [DEF CON Media↗](https://media.defcon.org/) | 
-Demo Prentations: => [DEF CON Talks↗](https://www.youtube.com/user/DEFCONConference/playlists) | 
-DEF CON Arsenal Curation: => [𝕏: @DefconParrot↗](https://twitter.com/DefconParrot)
+- Tools Reference: => [DEF CON Media↗](https://media.defcon.org/)
+- Demo Prentations: => [DEF CON Talks↗](https://www.youtube.com/user/DEFCONConference/playlists)
+- Curation of tools used by security researchers at Defcon: => [𝕏: DEF CON Arsenal Tools (DArTs)↗](https://twitter.com/DCArsenalTools)
 
 ![DaRT tool sample on social media](https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/fbbf1b79-0c46-4e99-aeb0-1bc611ffa794)
 
 ---
 
-## General Contribution
+## Contribution
 
-To submit a tool, either submit it to one of the folders in the category that matches your tool, or create a new folder with your tool category if not present.
+We welcome contributions! To add or update tools:
 
-For a smooth and effective collaboration, please adhere to the following guidelines:
+1. Check if the tool is already added
+2. Fork this repository.
+3. Add your tool under the correct category (or create a new one if needed).
+4. Commit your changes and submit a Pull Request.
 
-- Before starting work on a new feature or tool, check they have already been [added](https://github.com/DefconParrot/DefconArsenalTools/blob/main/toolsAdded.md) and create pull requests with updated local changes to avoid duplication of efforts and or running into errors.
-- Be respectful and considerate towards other contributors.
-- We encourage open and constructive communication.
-- Feel free to ask questions or seek clarifications by opening a new issue.
+<details> <summary><b>Detailed Contribution Steps</b> (click to expand)</summary>
 
-### Contribution Steps
+- Fork → Clone → Create branch
 
-To get started with contributing to the DArT project, follow the steps below:
+- Add/modify tools or documentation
 
-#### Prerequisites:
+- Commit & push
 
-- Make sure you have [Git](https://git-scm.com/downloads) installed on your system. You can download it from https://git-scm.com/downloads.
+- Open a Pull Request for review
 
-#### Fork the Repository
+- Refer to GitHub Docs: [Forking a Repo](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) if needed.
 
-Fork this repository by clicking on the "_Fork_" button at the top right corner of this page. This will create a copy of the [DArT](https://github.com/DefconParrot/DefconArsenalTools) repository under your GitHub account.
+</details>
 
-#### Clone the Repository
-
-1. Clone the forked repository to your local machine using the following command:
-
-```markdown
-git clone https://github.com/DefconParrot/DefconArsenalTools.git
-```
-
-2. Navigate to the project directory:
-
-```markdown
-cd DefconArsenalTools
-```
-
-#### Create a Branch
-
-1. Create a new branch for your contribution. Choose a descriptive name that summarizes the purpose of your changes:
-
-```markdown
-git checkout -b my_contribution
-```
-
-#### Make Changes
-
-Now you can make the necessary changes or additions to the project. You can contribute in several ways, including:
-
-- Adding new tools or scripts
-- Improving existing tools or scripts
-- Enhancing the project's documentation
-- Fixing bugs or issues
-
-![dctalks](https://user-images.githubusercontent.com/30528167/194534636-238ecbd8-e133-4fff-adf1-1d9f5a223f46.PNG)
-Feel free to explore the project and identify areas where you can contribute effectively.
-
-#### Commit and Push
-
-Once you have made your changes, it's time to commit them and push them to your forked repository:
-
-1. Add the modified files to the commit:
-
-```markdown
-git add .
-```
-
-2. Commit your changes with a descriptive message:
-
-```markdown
-git commit -m "your contribution description"
-```
-
-3. Push the changes to your forked repository:
-
-```markdown
-git push origin my_contribution
-```
-
-#### Submit a Pull Request
-
-To maintain consistency throughout the project, we follow certain code styles and guidelines. When contributing to DArT, please keep the following in mind:
-
-- Ensure your code is well-documented and easy to understand.
-- Write meaningful commit messages that describe your changes.
-
-Now it's time to submit a Pull Request (PR) to the main [DArT repository](https://github.com/DefconParrot/DefconArsenalTools). Follow these steps:
-
-1. Visit your forked repository on GitHub.
-2. Click on the "_Compare & pull request_" button next to your newly pushed branch.
-3. Fill in the details of your contribution in the PR description.
-4. Click on the "_Create pull request_" button to submit your changes for review.
-
-## Conclusion
-
-Thank you for your interest in contributing to the Defcon Arsenal Tool (DArT) project! Your contributions play a vital role in making this project a valuable resource for the DEFCON community. We appreciate your time and effort in helping us improve the toolset and enhance the overall security landscape.
-
-If you have any questions or need further assistance, don't hesitate to reach out to us using the contact us options or by opening an issue.
-
-## Contact Us (Twitter)
+## Contact
 
 - Curator => Get in touch: [𝕏: @DefconParrot↗](https://twitter.com/DefconParrot)
 - Defcon => Get in touch: [𝕏: @defcon↗](https://twitter.com/defcon) | [Mastodon: @defcon↗](https://defcon.social/@defcon) | [defcon.org](http://defcon.org)
@@ -235,6 +130,6 @@ If you have any questions or need further assistance, don't hesitate to reach ou
 
 ![GNU General Public License](https://www.gnu.org/graphics/gplv3-127x51.png) <br>This work is licensed under a <a rel="license" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3.0</a>.
 
-___
+---
 
 [⬆ Back to Top](#top)
