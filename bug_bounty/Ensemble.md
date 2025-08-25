@@ -1,6 +1,8 @@
-#  Ensemble
+# Ensemble
 
-Category/Tags: Bug Bounty, Scanner
+Category: Bug Bounty
+
+Tags: Bug Bounty, Scanner
 
 Tool Presented at: Defcon 31 - (Y.2023)
 
@@ -8,7 +10,7 @@ Author/presenter: [Anthony 'DotNetRussell' Rusell](https://twitter.com/DotNetRus
 
 ## Tool Description
 
-**Title** :  DEF CON 31 Recon Village - Bug Bounty Recon Bypassing Geographic DNS with Ensemble 
+**Title** : DEF CON 31 Recon Village - Bug Bounty Recon Bypassing Geographic DNS with Ensemble
 
 ![DEF CON 31 Recon Village - Anthony Russell - Bug Bounty Recon Bypassing Geographic DNS with Ensemble](https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/da877686-de2f-4f2b-9731-50602f5eb5c3)
 
@@ -26,11 +28,9 @@ Ensemble, a free open-source tool being released during Defcon 31, will solve th
 
 - Link to blog🧾 => N/A
 
-
 ## Author Description
 
-- *Anthony 'DotNetRussell' Russell* - Active Duty Army 05-10, Hobbyist Hardware/Software Hacking & a senior SWE.
-
+- _Anthony 'DotNetRussell' Russell_ - Active Duty Army 05-10, Hobbyist Hardware/Software Hacking & a senior SWE.
 
 ## Author's Social Links:
 

@@ -1,6 +1,8 @@
 # ezviz_lan_rce
 
-Category/Tags: Network Attacks
+Category: Network Attacks
+
+Tags: Network Attacks
 
 Tool Presented at: DEF CON Hacking Village at Defcon 31 - (Y.2023)
 
@@ -18,8 +20,8 @@ We will take a deep dive into the whole research process: firmware analysis, vul
 
 By filling the gap between IoT hacking and the big screen, we put the integrity of video surveillance systems into question and hope to raise awareness about the security risks posed by these devices.
 
-
 ## Reference Links:
+
 - Link to Tool⚙️ => https://github.com/infobyte/ezviz_lan_rce
 - Link to slide✍️ => https://github.com/infobyte/ezviz_lan_rce/blob/main/presentation/SADP%20goes%20to%20Hollywood.pdf
 - Link to Talk(presentation)📺 => https://github.com/infobyte/ezviz_lan_rce/tree/main/presentation
@@ -28,9 +30,9 @@ By filling the gap between IoT hacking and the big screen, we put the integrity 
 
 ## Author Description
 
-*Octavio Gianatiempo* is a Security Researcher at Faraday and a Computer Science student at the University of Buenos Aires. He’s also a biologist with research experience in molecular biology and neuroscience. The necessity of analyzing complex biological data was his point of entry into programming. But he wanted to achieve a deeper understanding of how computers work, so he enrolled in Computer Science. As a Security Researcher at Faraday, he focuses on embedded devices, reverse engineering and fuzzing open and closed source software to find new vulnerabilities and exploit them.
+_Octavio Gianatiempo_ is a Security Researcher at Faraday and a Computer Science student at the University of Buenos Aires. He’s also a biologist with research experience in molecular biology and neuroscience. The necessity of analyzing complex biological data was his point of entry into programming. But he wanted to achieve a deeper understanding of how computers work, so he enrolled in Computer Science. As a Security Researcher at Faraday, he focuses on embedded devices, reverse engineering and fuzzing open and closed source software to find new vulnerabilities and exploit them.
 
-*Javier Aguinaga* is a self-taught reverse engineer with a principal focus in exploiting, currently working at Faraday for the last 7 years. He started his journey as a hobbyist electronic enthusiast and began learning how to crack security systems for video games. This led him to pursue a career in reverse engineering, where he has gained extensive experience analyzing and breaking down complex systems. With his expertise, Javier has been able to identify vulnerabilities in various technologies and has presented his findings at several conferences. He looks forward to sharing his insights and learning from others at the upcoming conference.
+_Javier Aguinaga_ is a self-taught reverse engineer with a principal focus in exploiting, currently working at Faraday for the last 7 years. He started his journey as a hobbyist electronic enthusiast and began learning how to crack security systems for video games. This led him to pursue a career in reverse engineering, where he has gained extensive experience analyzing and breaking down complex systems. With his expertise, Javier has been able to identify vulnerabilities in various technologies and has presented his findings at several conferences. He looks forward to sharing his insights and learning from others at the upcoming conference.
 
 ## Author's Social Links:
 

@@ -1,6 +1,8 @@
-#  Git Wild Hunt 
+# Git Wild Hunt
 
-Category/Tags: Offense, Vulnerability Assessment, Credential Scanning
+Category: Credential Scanning
+
+Tags: Offense, Vulnerability Assessment, Credential Scanning
 
 Tool Presented at: Defcon 29 - (Y.2021)
 
@@ -57,7 +59,6 @@ This tool is very effective in finding leaked credentials here is a list of the 
 - Twitter Access Token
 - Twitter OAuth
 
-
 ## Reference Links:
 
 - Link to Tool⚙️ => https://github.com/josehelps/git-wild-hunt
@@ -70,10 +71,9 @@ This tool is very effective in finding leaked credentials here is a list of the 
 
 ## Author Description (Team82 researchers)
 
-- *Rod* - Principal Security Research Engineer at Splunk. Worked at Prolexic Technologies (now Akamai), and Caspida. Cofounder of Hackmiami and Pacific Hackers meetups and conferences. Creator of Kommand && KonTroll / NoQrtr-CTF.
+- _Rod_ - Principal Security Research Engineer at Splunk. Worked at Prolexic Technologies (now Akamai), and Caspida. Cofounder of Hackmiami and Pacific Hackers meetups and conferences. Creator of Kommand && KonTroll / NoQrtr-CTF.
 
-- *Jose* - Principal Security Researcher at Splunk. He started his professional career at Prolexic Technologies (now Akamai), fighting DDOS attacks against Fortune 100 companies perpetrated by “anonymous” and “lulzsec.” As an engineering co-founder of Zenedge Inc. (acquired by Oracle Inc.), José helped build technologies to fight bots and web-application attacks. He has also built security operation centers and run a public threat-intelligence service.
-
+- _Jose_ - Principal Security Researcher at Splunk. He started his professional career at Prolexic Technologies (now Akamai), fighting DDOS attacks against Fortune 100 companies perpetrated by “anonymous” and “lulzsec.” As an engineering co-founder of Zenedge Inc. (acquired by Oracle Inc.), José helped build technologies to fight bots and web-application attacks. He has also built security operation centers and run a public threat-intelligence service.
 
 ## Author's Social Links:
 

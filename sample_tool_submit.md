@@ -1,6 +1,8 @@
 # Tool name
 
-Category: Phishing, Frameworks
+Category: Existing_Category_Folder_Or_New
+
+Tags: tool_identifier_tag_eg_security, tag2_identifier
 
 Tool Presented at: Defcon 20
 
