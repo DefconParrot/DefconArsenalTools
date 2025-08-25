@@ -20,7 +20,7 @@ CloudRecon is a suite of tools to scan all the cloud providers and find these hi
 
 The tool suite is three parts in GO:
 
-- CloudScrape - A LIVE running too to inspect the ranges for a keywork in SSL certs OU, CN, and SN fields in real time.
+- CloudScrape - A LIVE running tool to inspect the ranges for a keywork in SSL certs OU, CN, and SN fields in real time.
 - CertStan - a tool to retrieve the ranges of AWS, GCP, and Azure, and download all their certs to your box. So you can have your OWN cert.sh database.
 - CertSniff - a tool to parse and search through the downloaded certs for keywords.
 

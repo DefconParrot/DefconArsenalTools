@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-08-25T14:26:20.264191+00:00",
+  "generated_at": "2025-08-25T15:24:50.666958+00:00",
   "repo": "github.com/DefconParrot/DefconArsenalTools",
-  "tool_count": 57,
+  "tool_count": 58,
   "categories": [
     {
       "name": "Azure",
@@ -36,7 +36,7 @@
       "tools": [
         {
           "title": "Ensemble",
-          "filename": "bug_bounty/Ensemble.md",
+          "filename": "bug_bounty/DC31/Ensemble.md",
           "dc": "Defcon 31 - (Y.2023)",
           "presenters": [
             {
@@ -686,6 +686,29 @@
           "tags": [
             "frameworks",
             "post-exploitation"
+          ]
+        },
+        {
+          "title": "STrace",
+          "filename": "frameworks/DC30/STrace.md",
+          "dc": "Defcon 30 - (Y.2023)",
+          "presenters": [
+            {
+              "name": "Stephen Eckels",
+              "url": "https://twitter.com/stevemk14ebr"
+            }
+          ],
+          "description": "Steve's Tracer — a reimplementation of Windows syscall hook using DTrace. A PatchGuard-compatible SSDT hook, but without any hacks. It doesn't extend support to SSSDT (win32k APIs) since the DTrace system call APIs inherently lack compatibility with this additional table. However, it enables tracing Zw\\* kernel APIs along with all user-mode SSDT syscalls.",
+          "image": "https://user-images.githubusercontent.com/6619205/239956166-bc9b2103-717a-4df1-8c6a-a001db1c75fc.png",
+          "source_url": "https://github.com/mandiant/STrace",
+          "talk_url": "",
+          "license": "",
+          "legal_status": "educational",
+          "tags": [
+            "dtrace",
+            "framework",
+            "frameworks",
+            "windows syscall"
           ]
         },
         {
@@ -1403,7 +1426,7 @@
           "filename": "README.md",
           "dc": "",
           "presenters": [],
-          "description": "Welcome to Defcon Arsenal Tools (DArT) repository, which aims to provide a comprehensive collection of tools and resources for security professionals and enthusiasts attending the DEFCON conference. In this README, you will find information on how to contribute to the project and help make it better.",
+          "description": "Welcome to Defcon Arsenal Tools (DArT) repository, which aims to provide a comprehensive collection of tools and resources for security professionals and enthusiasts attending the DEFCON conference.",
           "image": "https://github.com/DefconParrot/DefconArsenalTools/assets/30528167/ccd2ac91-2557-436a-80d6-6ce280c9f05b",
           "source_url": "https://github.com/DefconParrot/DefconArsenalTools",
           "talk_url": "https://www.youtube.com/user/DEFCONConference/playlists",
