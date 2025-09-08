@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-08-25T15:24:50.666958+00:00",
+  "generated_at": "2025-09-08T12:06:45.734398+00:00",
   "repo": "github.com/DefconParrot/DefconArsenalTools",
-  "tool_count": 58,
+  "tool_count": 59,
   "categories": [
     {
       "name": "Azure",
@@ -206,7 +206,7 @@
         {
           "title": "ContainYourself",
           "filename": "exploitation/DC31/ContainYourself.md",
-          "dc": "Defcon 31 - (Y.2023)",
+          "dc": "Defcon 31",
           "presenters": [
             {
               "name": "Daniel Avinoam",
@@ -224,6 +224,38 @@
             "privilege escalation",
             "security",
             "windows exploitation"
+          ]
+        },
+        {
+          "title": "CVE-2023-34362",
+          "filename": "exploitation/DC31/CVE-2023-26067.md",
+          "dc": "Defcon 31",
+          "presenters": [
+            {
+              "name": "Horizon3 Attack Team",
+              "url": "https://twitter.com/Horizon3Attack"
+            },
+            {
+              "name": "James Horseman",
+              "url": "https://twitter.com/JamesHorseman2"
+            },
+            {
+              "name": "Zach Hanley",
+              "url": "https://twitter.com/hacks_zach"
+            }
+          ],
+          "description": "\"New isn't always novel: grep'ing your way to $20K at PWN2OWN, and how you can too\"",
+          "image": "",
+          "source_url": "https://github.com/user-attachments/assets/a02f6bce-188b-400c-87ed-fe21f9398674\"",
+          "talk_url": "https://www.youtube.com/watch?v=vBFKVUQvESM",
+          "license": "",
+          "legal_status": "dual-use",
+          "tags": [
+            "ad",
+            "bug bounty",
+            "command injection",
+            "exploitation",
+            "lexmark printers"
           ]
         },
         {
@@ -345,7 +377,7 @@
         {
           "title": "RelocBonus",
           "filename": "exploitation/DC26/RelocBonus.md",
-          "dc": "Defcon 26 - (Y.2018)",
+          "dc": "Defcon 26",
           "presenters": [
             {
               "name": "Nick Cano",
